@@ -2,33 +2,36 @@ name: Update Banxico Data
 
 on:
   schedule:
-    - cron: '30 17 * * *'
-  workflow_dispatch:
+      - cron: '30 17 * * *'
+        workflow_dispatch:
 
-jobs:
-  update-banxico:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: 'pip'
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-      - name: Update Banxico data
-        env:
-          BANXICO_TOKEN: ${{ secrets.BANXICO_TOKEN }}
-        run: |
-          python 1_Carry_Trade/carry_trade.py
-          python 2_Inflation_Shield/inflation_shield.py
-          python 4_Real_Economy/real_economy.py
-          python export_to_json.py
-      - name: Update docs
-        run: cp Web/data/dashboard_data.json docs/data/
-      - name: Commit changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add docs/data/dashboard_data.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Banxico data - $(date +'%Y-%m-%d %H:%M UTC')" && git push)
+        jobs:
+          update-banxico:
+              runs-on: ubuntu-latest
+                  steps:
+                        - uses: actions/checkout@v4
+                              - uses: actions/setup-python@v5
+                                      with:
+                                                python-version: '3.11'
+                                                          cache: 'pip'
+                                                                - name: Install dependencies
+                                                                        run: pip install -r requirements.txt
+                                                                              - name: Create data directories
+                                                                                      run: mkdir -p Web/data docs/data
+                                                                                            - name: Update Banxico data
+                                                                                                    env:
+                                                                                                              BANXICO_TOKEN: ${{ secrets.BANXICO_TOKEN }}
+                                                                                                                      run: |
+                                                                                                                                python 1_Carry_Trade/carry_trade.py
+                                                                                                                                          python 2_Inflation_Shield/inflation_shield.py
+                                                                                                                                                    python 4_Real_Economy/real_economy.py
+                                                                                                                                                              python export_to_json.py
+                                                                                                                                                                    - name: Update docs
+                                                                                                                                                                            run: cp Web/data/dashboard_data.json docs/data/
+                                                                                                                                                                                  - name: Commit changes
+                                                                                                                                                                                          run: |
+                                                                                                                                                                                                    git config --local user.email "github-actions[bot]@users.noreply.github.com"
+                                                                                                                                                                                                              git config --local user.name "github-actions[bot]"
+                                                                                                                                                                                                                        git add docs/data/dashboard_data.json
+                                                                                                                                                                                                                                  git diff --quiet && git diff --staged --quiet || (git commit -m "Update Banxico data - $(date +'%Y-%m-%d %H:%M UTC')" && git push)
+                                                                                                                                                                                                                                  
