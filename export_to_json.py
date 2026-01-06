@@ -25,9 +25,13 @@ def load_and_clean(path):
         try:
             df = pd.read_csv(path)
             if 'price_history' in df.columns:
-                df['price_history'] = df['price_history'].apply(lambda x: ast.literal_eval(x) if pd.notna(x) and isinstance(x, str) else x)
-            json_str = df.to_json(orient='records')
-            return json.loads(json_str)
+                # Parse string representations of lists to actual Python lists
+                df['price_history'] = df['price_history'].apply(
+                    lambda x: ast.literal_eval(x) if pd.notna(x) and isinstance(x, str) else x
+                )
+            # Convert to records (list of dicts) to avoid JSON serialization issues
+            records = df.to_dict(orient='records')
+            return records
         except Exception as e:
             print(f"Error reading {path}: {e}")
             return []
@@ -110,6 +114,17 @@ def generate_alpha_signal(data_carry, data_risk):
 
     return signal
 
+def replace_nan_with_none(obj):
+    """Recursively replace NaN values with None in nested structures"""
+    if isinstance(obj, dict):
+        return {k: replace_nan_with_none(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [replace_nan_with_none(item) for item in obj]
+    elif isinstance(obj, float) and pd.isna(obj):
+        return None
+    else:
+        return obj
+
 def main():
     # Load existing data first (to preserve data from other workflows)
     existing_data = {}
@@ -157,6 +172,10 @@ def main():
         "global_indicators": final_global
     }
 
+
+    # Clean NaN values from the data structure
+    data = replace_nan_with_none(data)
+
     with open(OUTPUT_PATH, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
@@ -164,3 +183,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
