@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="60">
+    <title>Alpha Dashboard | Inteligencia Económica</title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Moment.js for time handling -->
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.29.4/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-moment@1.0.1/dist/chartjs-adapter-moment.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="header-left">
+                <h1 id="main-title">ALPHA DASHBOARD</h1>
+                <div class="status-bar">
+                    <span class="status-indicator">● EN LÍNEA</span>
+                    <span id="last-update">--/--/----</span>
+                </div>
+            </div>
+            <!-- ALPHA BOX (Added Feature) -->
+            <!-- STRATEGY BOXES CONTAINER -->
+            <div class="strategies-container">
+                <!-- BOX 1: CARRY TRADE -->
+                <div class="alpha-box" id="box-carry">
+                    <div class="alpha-status" id="carry-status">ANALIZANDO...</div>
+                    <div class="alpha-details">
+                        <div class="detail-row"><span>Acción:</span> <strong id="carry-action">--</strong></div>
+                        <div class="detail-row"><span>Probabilidad:</span> <strong id="carry-prob">--%</strong></div>
+                        <div class="detail-row"><span>Stop Loss:</span> <strong id="carry-sl">--</strong></div>
+                    </div>
+                    <div class="alpha-reason" id="carry-reason">--</div>
+                </div>
+
+                <!-- BOX 2: INFLATION SHIELD -->
+                <div class="alpha-box" id="box-inflation">
+                    <div class="alpha-title">ESCUDO INFLACIÓN</div>
+                    <div class="alpha-status" id="inf-status">ANALIZANDO...</div>
+                    <div class="alpha-details">
+                        <div class="detail-row"><span>Acción:</span> <strong id="inf-action">--</strong></div>
+                        <div class="detail-row"><span>Tasa Real:</span> <strong id="inf-real">--%</strong></div>
+                    </div>
+                </div>
+
+                <!-- BOX 3: RISK THERMOMETER -->
+                <div class="alpha-box" id="box-risk">
+                    <div class="alpha-title">TERMÓMETRO RIESGO</div>
+                    <div class="alpha-status" id="risk-status">ANALIZANDO...</div>
+                    <div class="alpha-details">
+                        <div class="detail-row"><span>Acción:</span> <strong id="risk-action">--</strong></div>
+                        <div class="detail-row"><span>Nivel:</span> <strong id="risk-level">--</strong></div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- KPI SUMMARY GRID -->
+        <section class="kpi-grid">
+            <div class="card kpi-card" id="kpi-carry">
+                <div class="card-title-row">
+                    <h3>TASA 28D</h3>
+                    <div class="tooltip-icon" tabindex="0">?
+                        <div class="tooltip-content">
+                            <strong>Significado:</strong> Tasa de interés base en México.<br>
+                            <strong>Fuente:</strong> Banxico (TIIE 28d).<br>
+                            <strong>Lógica:</strong> Es el rendimiento "seguro". Base para calcular el Spread.
+                        </div>
+                    </div>
+                </div>
+                <div class="value" id="val-tiie">--%</div>
+                <div class="subtext" id="sub-spread">Spread: --</div>
+            </div>
+            <div class="card kpi-card" id="kpi-inflation">
+                <div class="card-title-row">
+                    <h3>INFLACIÓN 10A</h3>
+                    <div class="tooltip-icon" tabindex="0">?
+                        <div class="tooltip-content">
+                            <strong>Significado:</strong> Expectativa de inflación a largo plazo.<br>
+                            <strong>Fuente:</strong> Banxico (Breakeven: Bono M - Udibono).<br>
+                            <strong>Lógica:</strong> Si sube, el mercado espera que los precios se disparen.
+                        </div>
+                    </div>
+                </div>
+                <div class="value" id="val-be">--%</div>
+                <div class="subtext">Breakeven</div>
+            </div>
+            <div class="card kpi-card" id="kpi-risk">
+                <div class="card-title-row">
+                    <h3>USD/MXN</h3>
+                    <div class="tooltip-icon" tabindex="0">?
+                        <div class="tooltip-content">
+                            <strong>Significado:</strong> Precio del Dólar hoy.<br>
+                            <strong>Fuente:</strong> Mercado Spot (Yahoo Finance).<br>
+                            <strong>Lógica:</strong> Actúa como termómetro de miedo.
+                        </div>
+                    </div>
+                </div>
+                <div class="value" id="val-fix">$ --</div>
+                <div class="subtext" id="sub-vol">Vol: --%</div>
+            </div>
+            <div class="card kpi-card" id="kpi-liquidity">
+                <div class="card-title-row">
+                    <h3>LIQUIDEZ</h3>
+                    <div class="tooltip-icon" tabindex="0">?
+                        <div class="tooltip-content">
+                            <strong>Significado:</strong> Divergencia Dinero vs Bolsa.<br>
+                            <strong>Fuente:</strong> Banxico (Billetes) vs IPC (Yahoo).<br>
+                            <strong>Lógica:</strong> Si hay mucho dinero (M1) y poca bolsa, la bolsa debería subir.
+                        </div>
+                    </div>
+                </div>
+                <div class="value" id="val-div">--</div>
+                <div class="subtext">Divergencia M1</div>
+            </div>
+        </section>
+
+        <!-- CHARTS GRID -->
+        <section class="charts-grid">
+            <!-- PILLAR 1 -->
+            <div class="card chart-card">
+                <div class="card-header">
+                    <h2>01. CARRY TRADE</h2>
+                    <div class="tooltip-icon" tabindex="0">?
+                        <div class="tooltip-content">
+                            <strong>Significado:</strong> Beneficio por invertir en MXN vs USD.<br>
+                            <strong>Fuente:</strong> Banxico (TIIE) - FED (Bonos 13sem).<br>
+                            <strong>Lógica:</strong> Buscamos Spreads > 500pb (Zona Verde). Menos de 400pb es Riesgo
+                            (Zona Roja).
+                        </div>
+                    </div>
+                    <span class="badge" id="badge-carry">NEUTRAL</span>
+                </div>
+                <div class="chart-container">
+                    <canvas id="chartCarry"></canvas>
+                </div>
+            </div>
+
+            <!-- PILLAR 2 -->
+            <div class="card chart-card">
+                <div class="card-header">
+                    <h2>02. ESCUDO INFLACIÓN</h2>
+                    <div class="tooltip-icon" tabindex="0">?
+                        <div class="tooltip-content">
+                            <strong>Significado:</strong> Ganancia Real (Poder Adquisitivo).<br>
+                            <strong>Fuente:</strong> Cetes 28d - Inflación Anual (INPC).<br>
+                            <strong>Lógica:</strong> Si es Positiva, realmente ganas dinero. Si es Negativa, pierdes
+                            contra los precios.
+                        </div>
+                    </div>
+                    <span class="badge" id="badge-inf">NORMAL</span>
+                </div>
+                <div class="chart-container">
+                    <canvas id="chartInflation"></canvas>
+                </div>
+            </div>
+
+            <!-- PILLAR 3 -->
+            <div class="card chart-card">
+                <div class="card-header">
+                    <h2>03. TERMÓMETRO RIESGO</h2>
+                    <div class="period-selector">
+                        <button class="period-btn" data-period="30" onclick="setChartPeriod(30)">30D</button>
+                        <button class="period-btn active" data-period="90" onclick="setChartPeriod(90)">90D</button>
+                        <button class="period-btn" data-period="365" onclick="setChartPeriod(365)">1A</button>
+                    </div>
+                    <div class="tooltip-icon" tabindex="0">?
+                        <div class="tooltip-content">
+                            <strong>Significado:</strong> Volatilidad Cambiaria.<br>
+                            <strong>Fuente:</strong> Calculado sobre Velas USD/MXN.<br>
+                            <strong>Lógica:</strong> Bandas Bollinger. Tocar la superior = Sobrecompra (Posible Venta
+                            Dólares).
+                        </div>
+                    </div>
+                    <span class="badge" id="badge-risk">CALMA</span>
+                </div>
+                <div class="chart-container">
+                    <canvas id="chartRisk"></canvas>
+                </div>
+            </div>
+
+            <!-- PILLAR 4 -->
+            <div class="card chart-card">
+                <div class="card-header">
+                    <h2>04. ECONOMÍA REAL</h2>
+                    <div class="tooltip-icon" tabindex="0">?
+                        <div class="tooltip-content">
+                            <strong>Significado:</strong> Correlación Dinero vs Activos.<br>
+                            <strong>Fuente:</strong> Billetes y Mondas (Banxico) vs IPC.<br>
+                            <strong>Lógica:</strong> Monitorea si la subida de bolsa está respaldada por dinero real en
+                            la callle.
+                        </div>
+                    </div>
+                    <span class="badge">MONITOR</span>
+                </div>
+                <div class="chart-container">
+                    <canvas id="chartEconomy"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- GLOBAL INDICATORS - VIX, S&P 500, Nasdaq, WTI, Gold -->
+        <section class="global-section">
+            <div class="section-header">
+                <h2>🌍 INDICADORES GLOBALES</h2>
+                <span class="badge" id="badge-global">MERCADOS CLAVE</span>
+            </div>
+            <div class="global-grid" id="global-container">
+                <!-- Global indicator cards will be inserted by JS -->
+                <div class="loading">Cargando indicadores...</div>
+            </div>
+        </section>
+
+        <!-- RADAR USA - Magnificent 7 -->
+        <section class="stocks-section">
+            <div class="section-header">
+                <h2>🇺🇸 RADAR USA</h2>
+                <span class="badge" id="badge-usa">MAGNIFICENT 7</span>
+            </div>
+            <div class="stocks-grid" id="stocks-container">
+                <!-- Stock cards will be inserted by JS -->
+                <div class="loading">Cargando acciones...</div>
+            </div>
+        </section>
+    </div>
+    <!-- EXPLANATION MODAL -->
+    <div id="logic-modal" class="modal-overlay">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h2 id="modal-title">ANÁLISIS DE SISTEMA</h2>
+            <div id="modal-body">
+                <!-- Content injected via JS -->
+            </div>
+        </div>
+    </div>
+
+    <script src="js/dashboard.js?v=2"></script>
+</body>
+
+</html>
