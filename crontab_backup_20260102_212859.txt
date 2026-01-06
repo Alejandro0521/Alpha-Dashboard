@@ -1,0 +1,12 @@
+# FX Rate update every 2 minutes (Twelve Data API - 720/day)
+*/2 * * * * cd "/Users/alejandrobasilio/Desktop/Pruebas Economia /Obtención de Datos Económicos en Tiempo Real (APIs)" && .venv/bin/python3 quick_fx_update.py >> fx_update_log.txt 2>&1
+
+# Full update every hour (Banxico data doesn't change more often)
+0 * * * * "/Users/alejandrobasilio/Desktop/Pruebas Economia /Obtención de Datos Económicos en Tiempo Real (APIs)/daily_update.sh"
+
+# US Stocks: Every 15 min during market hours (9am-3pm CST) Mon-Fri
+0,15,30,45 9-14 * * 1-5 cd "/Users/alejandrobasilio/Desktop/Pruebas Economia /Obtención de Datos Económicos en Tiempo Real (APIs)" && .venv/bin/python3 quick_stocks_update.py >> stocks_update_log.txt 2>&1
+
+# US Stocks: Market open (8:30am) and close (3:00pm) Mon-Fri
+30 8 * * 1-5 cd "/Users/alejandrobasilio/Desktop/Pruebas Economia /Obtención de Datos Económicos en Tiempo Real (APIs)" && .venv/bin/python3 quick_stocks_update.py >> stocks_update_log.txt 2>&1
+0 15 * * 1-5 cd "/Users/alejandrobasilio/Desktop/Pruebas Economia /Obtención de Datos Económicos en Tiempo Real (APIs)" && .venv/bin/python3 quick_stocks_update.py >> stocks_update_log.txt 2>&1
