@@ -1,9 +1,9 @@
 name: Update Market Data
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 15-21 * * 1-5'
-  workflow_dispatch:
 
 jobs:
   update-markets:
@@ -35,3 +35,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add docs/data/dashboard_data.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update market data - $(date +'%Y-%m-%d %H:%M UTC')" && git push)
+
