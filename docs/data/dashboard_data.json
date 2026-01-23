@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "generated_at": "2026-01-23 20:34:06",
-        "live_fx_rate": 17.37353
+        "generated_at": "2026-01-23 21:28:31",
+        "live_fx_rate": 17.37799
     },
     "system_status": {
         "status": "🔴 RIESGO ALTO",
@@ -16833,7 +16833,7 @@
             "Date": "2026-01-23",
             "Open": 17.458999633789062,
             "High": 17.49799919128418,
-            "Low": 17.357999801635742,
+            "Low": 17.354999542236328,
             "Close": 17.371000289916992,
             "SMA_20": 17.81578845977783,
             "STD_20": 0.1926615470933213,
@@ -22676,12 +22676,12 @@
         {
             "ticker": "AAPL",
             "name": "Apple",
-            "price": 248.14,
-            "change": -0.21,
-            "change_pct": -0.08,
+            "price": 248.04,
+            "change": -0.31,
+            "change_pct": -0.12,
             "rsi": 12.1,
             "sma50": 269.77,
-            "sma200": 234.74,
+            "sma200": 234.73,
             "signal": "SOBREVENTA",
             "date": "2026-01-23",
             "price_history": [
@@ -22714,18 +22714,18 @@
                 246.7,
                 247.65,
                 248.35,
-                248.14
+                248.04
             ]
         },
         {
             "ticker": "MSFT",
             "name": "Microsoft",
-            "price": 467.58,
-            "change": 16.44,
-            "change_pct": 3.64,
-            "rsi": 46.7,
-            "sma50": 480.91,
-            "sma200": 482.82,
+            "price": 465.95,
+            "change": 14.81,
+            "change_pct": 3.28,
+            "rsi": 45.7,
+            "sma50": 480.88,
+            "sma200": 482.81,
             "signal": "MANTENER",
             "date": "2026-01-23",
             "price_history": [
@@ -22758,16 +22758,16 @@
                 454.52,
                 444.11,
                 451.14,
-                467.58
+                465.95
             ]
         },
         {
             "ticker": "GOOGL",
             "name": "Alphabet",
-            "price": 328.18,
-            "change": -2.36,
-            "change_pct": -0.71,
-            "rsi": 63.0,
+            "price": 327.93,
+            "change": -2.61,
+            "change_pct": -0.79,
+            "rsi": 62.7,
             "sma50": 312.71,
             "sma200": 229.67,
             "signal": "COMPRAR",
@@ -22802,16 +22802,16 @@
                 322.0,
                 328.38,
                 330.54,
-                328.18
+                327.93
             ]
         },
         {
             "ticker": "AMZN",
             "name": "Amazon",
-            "price": 239.09,
-            "change": 4.75,
-            "change_pct": 2.03,
-            "rsi": 62.5,
+            "price": 239.16,
+            "change": 4.82,
+            "change_pct": 2.06,
+            "rsi": 62.6,
             "sma50": 232.36,
             "sma200": 220.3,
             "signal": "COMPRAR",
@@ -22846,17 +22846,17 @@
                 231.0,
                 231.31,
                 234.34,
-                239.09
+                239.16
             ]
         },
         {
             "ticker": "NVDA",
             "name": "Nvidia",
-            "price": 187.27,
-            "change": 2.43,
-            "change_pct": 1.31,
-            "rsi": 47.6,
-            "sma50": 183.81,
+            "price": 187.67,
+            "change": 2.83,
+            "change_pct": 1.53,
+            "rsi": 48.3,
+            "sma50": 183.82,
             "sma200": 165.69,
             "signal": "COMPRAR",
             "date": "2026-01-23",
@@ -22890,18 +22890,18 @@
                 178.07,
                 183.32,
                 184.84,
-                187.27
+                187.67
             ]
         },
         {
             "ticker": "META",
             "name": "Meta",
-            "price": 661.11,
-            "change": 13.48,
-            "change_pct": 2.08,
-            "rsi": 53.6,
-            "sma50": 639.47,
-            "sma200": 676.81,
+            "price": 658.76,
+            "change": 11.13,
+            "change_pct": 1.72,
+            "rsi": 52.9,
+            "sma50": 639.43,
+            "sma200": 676.8,
             "signal": "VENDER",
             "date": "2026-01-23",
             "price_history": [
@@ -22934,18 +22934,18 @@
                 604.12,
                 612.96,
                 647.63,
-                661.11
+                658.76
             ]
         },
         {
             "ticker": "TSLA",
             "name": "Tesla",
-            "price": 447.24,
-            "change": -2.12,
-            "change_pct": -0.47,
-            "rsi": 54.0,
-            "sma50": 442.36,
-            "sma200": 372.75,
+            "price": 449.06,
+            "change": -0.3,
+            "change_pct": -0.07,
+            "rsi": 54.9,
+            "sma50": 442.4,
+            "sma200": 372.76,
             "signal": "COMPRAR",
             "date": "2026-01-23",
             "price_history": [
@@ -22978,7 +22978,7 @@
                 419.25,
                 431.44,
                 449.36,
-                447.24
+                449.06
             ]
         }
     ],
@@ -22987,12 +22987,11 @@
             "ticker": "^VIX",
             "name": "VIX (Índice del Miedo)",
             "category": "volatility",
-            "price": 15.67,
-            "change": 0.03,
-            "change_pct": 0.19,
+            "price": 16.09,
+            "change": 0.45,
+            "change_pct": 2.88,
             "date": "2026-01-23",
             "price_history": [
-                14.0,
                 13.47,
                 13.6,
                 14.2,
@@ -23012,19 +23011,18 @@
                 20.09,
                 16.9,
                 15.64,
-                15.67
+                16.09
             ]
         },
         {
             "ticker": "^GSPC",
             "name": "S&P 500",
             "category": "index",
-            "price": 6910.34,
-            "change": -3.01,
-            "change_pct": -0.04,
+            "price": 6915.61,
+            "change": 2.26,
+            "change_pct": 0.03,
             "date": "2026-01-23",
             "price_history": [
-                6909.79,
                 6932.05,
                 6929.94,
                 6905.74,
@@ -23044,19 +23042,18 @@
                 6796.86,
                 6875.62,
                 6913.35,
-                6910.34
+                6915.61
             ]
         },
         {
             "ticker": "^IXIC",
             "name": "Nasdaq",
             "category": "index",
-            "price": 23480.81,
-            "change": 44.79,
-            "change_pct": 0.19,
+            "price": 23501.24,
+            "change": 65.22,
+            "change_pct": 0.28,
             "date": "2026-01-23",
             "price_history": [
-                23561.84,
                 23613.31,
                 23593.1,
                 23474.35,
@@ -23076,16 +23073,16 @@
                 22954.32,
                 23224.82,
                 23436.02,
-                23480.81
+                23501.24
             ]
         },
         {
             "ticker": "CL=F",
             "name": "Petróleo WTI",
             "category": "commodity",
-            "price": 61.15,
-            "change": 1.79,
-            "change_pct": 3.02,
+            "price": 61.26,
+            "change": 1.9,
+            "change_pct": 3.2,
             "date": "2026-01-23",
             "price_history": [
                 58.38,
@@ -23108,16 +23105,16 @@
                 60.34,
                 60.62,
                 59.36,
-                61.15
+                61.26
             ]
         },
         {
             "ticker": "GC=F",
             "name": "Oro",
             "category": "commodity",
-            "price": 4983.2,
-            "change": 74.4,
-            "change_pct": 1.52,
+            "price": 4980.8,
+            "change": 72.0,
+            "change_pct": 1.47,
             "date": "2026-01-23",
             "price_history": [
                 4482.8,
@@ -23140,7 +23137,7 @@
                 4759.6,
                 4831.8,
                 4908.8,
-                4983.2
+                4980.8
             ]
         }
     ]
