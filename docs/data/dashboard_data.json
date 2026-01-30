@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "generated_at": "2026-01-30 18:54:44",
-        "live_fx_rate": 17.41617
+        "generated_at": "2026-01-30 19:38:14",
+        "live_fx_rate": 17.41668
     },
     "system_status": {
         "status": "🔴 RIESGO ALTO",
@@ -22683,12 +22683,12 @@
         {
             "ticker": "AAPL",
             "name": "Apple",
-            "price": 256.51,
-            "change": -1.77,
-            "change_pct": -0.69,
-            "rsi": 45.8,
-            "sma50": 268.24,
-            "sma200": 236.36,
+            "price": 258.08,
+            "change": -0.2,
+            "change_pct": -0.08,
+            "rsi": 48.0,
+            "sma50": 268.27,
+            "sma200": 236.37,
             "signal": "COMPRAR",
             "date": "2026-01-30",
             "price_history": [
@@ -22721,17 +22721,17 @@
                 258.27,
                 256.44,
                 258.28,
-                256.51
+                258.08
             ]
         },
         {
             "ticker": "MSFT",
             "name": "Microsoft",
-            "price": 431.2,
-            "change": -2.3,
-            "change_pct": -0.53,
-            "rsi": 31.4,
-            "sma50": 476.1,
+            "price": 430.62,
+            "change": -2.88,
+            "change_pct": -0.66,
+            "rsi": 31.3,
+            "sma50": 476.09,
             "sma200": 484.83,
             "signal": "MANTENER",
             "date": "2026-01-30",
@@ -22765,17 +22765,17 @@
                 480.58,
                 481.63,
                 433.5,
-                431.2
+                430.62
             ]
         },
         {
             "ticker": "GOOGL",
             "name": "Alphabet",
-            "price": 338.06,
-            "change": -0.19,
-            "change_pct": -0.06,
-            "rsi": 61.0,
-            "sma50": 317.97,
+            "price": 337.68,
+            "change": -0.57,
+            "change_pct": -0.17,
+            "rsi": 60.5,
+            "sma50": 317.96,
             "sma200": 234.21,
             "signal": "COMPRAR",
             "date": "2026-01-30",
@@ -22809,16 +22809,16 @@
                 334.55,
                 336.01,
                 338.25,
-                338.06
+                337.68
             ]
         },
         {
             "ticker": "AMZN",
             "name": "Amazon",
-            "price": 240.24,
-            "change": -1.49,
-            "change_pct": -0.62,
-            "rsi": 41.3,
+            "price": 240.68,
+            "change": -1.05,
+            "change_pct": -0.43,
+            "rsi": 41.7,
             "sma50": 232.56,
             "sma200": 221.79,
             "signal": "COMPRAR",
@@ -22853,16 +22853,16 @@
                 244.68,
                 243.01,
                 241.73,
-                240.24
+                240.68
             ]
         },
         {
             "ticker": "NVDA",
             "name": "Nvidia",
-            "price": 191.39,
-            "change": -1.12,
-            "change_pct": -0.58,
-            "rsi": 59.5,
+            "price": 191.2,
+            "change": -1.31,
+            "change_pct": -0.68,
+            "rsi": 59.1,
             "sma50": 183.82,
             "sma200": 167.74,
             "signal": "COMPRAR",
@@ -22897,17 +22897,17 @@
                 188.52,
                 191.52,
                 192.51,
-                191.39
+                191.2
             ]
         },
         {
             "ticker": "META",
             "name": "Meta",
-            "price": 717.32,
-            "change": -20.99,
-            "change_pct": -2.84,
-            "rsi": 64.4,
-            "sma50": 647.72,
+            "price": 717.8,
+            "change": -20.51,
+            "change_pct": -2.78,
+            "rsi": 64.5,
+            "sma50": 647.73,
             "sma200": 680.59,
             "signal": "VENDER",
             "date": "2026-01-30",
@@ -22941,17 +22941,17 @@
                 672.97,
                 668.73,
                 738.31,
-                717.32
+                717.8
             ]
         },
         {
             "ticker": "TSLA",
             "name": "Tesla",
-            "price": 434.65,
-            "change": 18.09,
-            "change_pct": 4.34,
-            "rsi": 45.5,
-            "sma50": 443.66,
+            "price": 433.76,
+            "change": 17.2,
+            "change_pct": 4.13,
+            "rsi": 45.1,
+            "sma50": 443.64,
             "sma200": 377.24,
             "signal": "COMPRAR",
             "date": "2026-01-30",
@@ -22985,7 +22985,7 @@
                 430.9,
                 431.46,
                 416.56,
-                434.65
+                433.76
             ]
         }
     ],
@@ -23027,9 +23027,9 @@
             "ticker": "^GSPC",
             "name": "S&P 500",
             "category": "index",
-            "price": 6927.55,
-            "change": -41.46,
-            "change_pct": -0.59,
+            "price": 6937.16,
+            "change": -31.85,
+            "change_pct": -0.46,
             "date": "2026-01-30",
             "price_history": [
                 6896.24,
@@ -23053,16 +23053,16 @@
                 6978.6,
                 6978.03,
                 6969.01,
-                6927.55
+                6937.16
             ]
         },
         {
             "ticker": "^IXIC",
             "name": "Nasdaq",
             "category": "index",
-            "price": 23469.93,
-            "change": -215.19,
-            "change_pct": -0.91,
+            "price": 23486.3,
+            "change": -198.81,
+            "change_pct": -0.84,
             "date": "2026-01-30",
             "price_history": [
                 23419.08,
@@ -23086,7 +23086,7 @@
                 23817.1,
                 23857.45,
                 23685.12,
-                23469.93
+                23486.3
             ]
         },
         {
