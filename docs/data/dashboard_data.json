@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "generated_at": "2026-03-28 17:55:20",
+        "generated_at": "2026-03-29 17:57:15",
         "live_fx_rate": 18.100000381469727
     },
     "system_status": {
@@ -3962,6 +3962,17 @@
         },
         {
             "Date": "2026-03-28",
+            "TIIE Fondeo": 7.2685,
+            "TIIE 28d": 6.75,
+            "Cetes 28d": 6.81,
+            "Cetes 364d": 7.58,
+            "FED Rate (Proxy 13W)": 3.607000112533569,
+            "Liquidity Spread": -0.5185000000000004,
+            "Yield Curve Slope": 0.7700000000000005,
+            "Carry Spread (bp)": 314.29998874664307
+        },
+        {
+            "Date": "2026-03-29",
             "TIIE Fondeo": 7.2685,
             "TIIE 28d": 6.75,
             "Cetes 28d": 6.81,
@@ -12660,18 +12671,22 @@
             "UDI Velocity (%)": 0.0385783248867399,
             "Inflation YoY": 2.2900763358778558,
             "Real Rate Ex-Post": 4.519923664122144
+        },
+        {
+            "Date": "2026-03-29",
+            "UDI": 8.778535,
+            "Bono M 10y": 18.0344,
+            "Udibono 10y": 7.01,
+            "Cetes 28d": 6.81,
+            "INPC": 4.02,
+            "Breakeven Inflation": 11.024400000000002,
+            "UDI Velocity (%)": 0.038586239390348,
+            "Inflation YoY": 2.2900763358778558,
+            "Real Rate Ex-Post": 4.519923664122144
         }
     ],
     "risk": [],
     "economy": [
-        {
-            "Date": "2024-03-28",
-            "M1": 11.0,
-            "IPC Index": null,
-            "M1 Normalized": 100.0,
-            "IPC Normalized": null,
-            "Divergence": null
-        },
         {
             "Date": "2024-03-29",
             "M1": 11.0,
@@ -18482,6 +18497,14 @@
         },
         {
             "Date": "2026-03-28",
+            "M1": 6.75,
+            "IPC Index": 66685.7578125,
+            "M1 Normalized": 61.36363636363637,
+            "IPC Normalized": 115.66699258707791,
+            "Divergence": -54.30335622344155
+        },
+        {
+            "Date": "2026-03-29",
             "M1": 6.75,
             "IPC Index": 66685.7578125,
             "M1 Normalized": 61.36363636363637,
