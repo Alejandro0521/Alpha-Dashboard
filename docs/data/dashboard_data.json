@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "generated_at": "2026-07-07 20:05:02",
-        "live_fx_rate": 17.51321
+        "generated_at": "2026-07-07 22:15:59",
+        "live_fx_rate": 17.52228
     },
     "system_status": {
         "status": "🔴 RIESGO ALTO",
@@ -22790,9 +22790,9 @@
             "ticker": "^VIX",
             "name": "VIX (Índice del Miedo)",
             "category": "volatility",
-            "price": 16.26,
-            "change": 0.69,
-            "change_pct": 4.43,
+            "price": 16.13,
+            "change": 0.56,
+            "change_pct": 3.6,
             "date": "2026-07-07",
             "price_history": [
                 18.92,
@@ -22814,7 +22814,7 @@
                 16.59,
                 16.15,
                 15.57,
-                16.26
+                16.13
             ]
         },
         {
@@ -22883,9 +22883,9 @@
             "ticker": "CL=F",
             "name": "Petróleo WTI",
             "category": "commodity",
-            "price": 71.87,
-            "change": 3.32,
-            "change_pct": 4.84,
+            "price": 72.35,
+            "change": 3.8,
+            "change_pct": 5.54,
             "date": "2026-07-07",
             "price_history": [
                 91.3,
@@ -22907,16 +22907,16 @@
                 68.58,
                 68.69,
                 68.55,
-                71.87
+                72.35
             ]
         },
         {
             "ticker": "GC=F",
             "name": "Oro",
             "category": "commodity",
-            "price": 4126.8,
-            "change": -28.3,
-            "change_pct": -0.68,
+            "price": 4113.7,
+            "change": -41.4,
+            "change_pct": -1.0,
             "date": "2026-07-07",
             "price_history": [
                 4335.9,
@@ -22938,7 +22938,7 @@
                 4068.3,
                 4112.7,
                 4155.1,
-                4126.8
+                4113.7
             ]
         }
     ]
