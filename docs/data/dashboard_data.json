@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "generated_at": "2026-07-08 20:24:39",
-        "live_fx_rate": 17.56886
+        "generated_at": "2026-07-08 22:12:36",
+        "live_fx_rate": 17.57706
     },
     "system_status": {
         "status": "🔴 RIESGO ALTO",
@@ -22500,50 +22500,6 @@
     ],
     "us_stocks": [
         {
-            "ticker": "AAPL",
-            "name": "Apple",
-            "price": 313.39,
-            "change": 2.73,
-            "change_pct": 0.88,
-            "rsi": 59.5,
-            "sma50": 295.85,
-            "sma200": 271.44,
-            "signal": "COMPRAR",
-            "date": "2026-07-08",
-            "price_history": [
-                308.33,
-                310.85,
-                312.51,
-                312.06,
-                306.31,
-                315.2,
-                310.26,
-                311.23,
-                307.34,
-                301.54,
-                290.55,
-                291.58,
-                295.63,
-                291.13,
-                296.42,
-                299.24,
-                295.95,
-                298.01,
-                297.01,
-                294.3,
-                293.08,
-                275.15,
-                283.78,
-                281.74,
-                289.36,
-                294.38,
-                308.63,
-                312.66,
-                310.66,
-                313.39
-            ]
-        },
-        {
             "ticker": "MSFT",
             "name": "Microsoft",
             "price": 383.34,
@@ -22813,9 +22769,9 @@
             "ticker": "^VIX",
             "name": "VIX (Índice del Miedo)",
             "category": "volatility",
-            "price": 16.81,
-            "change": 0.68,
-            "change_pct": 4.22,
+            "price": 16.9,
+            "change": 0.77,
+            "change_pct": 4.77,
             "date": "2026-07-08",
             "price_history": [
                 18.92,
@@ -22838,7 +22794,7 @@
                 16.15,
                 15.57,
                 16.13,
-                16.81
+                16.9
             ]
         },
         {
@@ -22907,9 +22863,9 @@
             "ticker": "CL=F",
             "name": "Petróleo WTI",
             "category": "commodity",
-            "price": 74.41,
-            "change": 3.97,
-            "change_pct": 5.64,
+            "price": 74.57,
+            "change": 4.13,
+            "change_pct": 5.86,
             "date": "2026-07-08",
             "price_history": [
                 91.3,
@@ -22932,16 +22888,16 @@
                 68.69,
                 68.55,
                 70.44,
-                74.41
+                74.57
             ]
         },
         {
             "ticker": "GC=F",
             "name": "Oro",
             "category": "commodity",
-            "price": 4088.8,
-            "change": -56.5,
-            "change_pct": -1.36,
+            "price": 4087.6,
+            "change": -57.7,
+            "change_pct": -1.39,
             "date": "2026-07-08",
             "price_history": [
                 4335.9,
@@ -22964,7 +22920,7 @@
                 4112.7,
                 4155.1,
                 4145.3,
-                4088.8
+                4087.6
             ]
         }
     ]
