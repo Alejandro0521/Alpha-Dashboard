@@ -1,13 +1,13 @@
 {
     "metadata": {
-        "generated_at": "2026-07-10 19:41:51",
-        "live_fx_rate": 17.47982
+        "generated_at": "2026-07-10 21:11:49",
+        "live_fx_rate": 17.47053
     },
     "system_status": {
         "status": "🔴 RIESGO ALTO",
         "action": "SHORT MXN (COMPRA USD)",
         "probability": "75%",
-        "stop_loss": "$17.39",
+        "stop_loss": "$17.36",
         "reason": "Compresión de Spread (282pbs) o Pánico (Z=-0.1)"
     },
     "carry_trade": [
@@ -13041,7 +13041,7 @@
             "Lower_Band": 18.47622230449126,
             "Log_Ret": -0.0026605284389291,
             "Volatility_30d": 7.174653457568396,
-            "Vol_Z_Score": -0.1888722412025071,
+            "Vol_Z_Score": -0.1887335600072164,
             "Band_Width": 0.0251675996122075,
             "Reservas Internacionales": null
         },
@@ -13057,7 +13057,7 @@
             "Lower_Band": 18.50055711608673,
             "Log_Ret": -0.0017277770969577,
             "Volatility_30d": 7.185433248288869,
-            "Vol_Z_Score": -0.1851023604110263,
+            "Vol_Z_Score": -0.1849555504764448,
             "Band_Width": 0.0236109217971494,
             "Reservas Internacionales": null
         },
@@ -13073,7 +13073,7 @@
             "Lower_Band": 18.52070498828728,
             "Log_Ret": -0.0076631405569779,
             "Volatility_30d": 7.487025252193348,
-            "Vol_Z_Score": -0.0796303775250969,
+            "Vol_Z_Score": -0.0792561454785714,
             "Band_Width": 0.0219349063463122,
             "Reservas Internacionales": null
         },
@@ -13089,7 +13089,7 @@
             "Lower_Band": 18.516904643697096,
             "Log_Ret": 0.0048266482004582,
             "Volatility_30d": 7.485499000733606,
-            "Vol_Z_Score": -0.080164134275135,
+            "Vol_Z_Score": -0.0797910531322337,
             "Band_Width": 0.0220039982046263,
             "Reservas Internacionales": null
         },
@@ -13105,7 +13105,7 @@
             "Lower_Band": 18.51086842070773,
             "Log_Ret": -0.0013207780483333,
             "Volatility_30d": 7.439677630387701,
-            "Vol_Z_Score": -0.0961886665119507,
+            "Vol_Z_Score": -0.0958501379854361,
             "Band_Width": 0.0221808744222458,
             "Reservas Internacionales": null
         },
@@ -13121,7 +13121,7 @@
             "Lower_Band": 18.507876906466844,
             "Log_Ret": -0.000395070539134,
             "Volatility_30d": 7.33449219968222,
-            "Vol_Z_Score": -0.1329738458389574,
+            "Vol_Z_Score": -0.1327146347097448,
             "Band_Width": 0.0214873873476989,
             "Reservas Internacionales": null
         },
@@ -13137,7 +13137,7 @@
             "Lower_Band": 18.50966451803857,
             "Log_Ret": -5.1440179301345366e-05,
             "Volatility_30d": 7.311786953802983,
-            "Vol_Z_Score": -0.1409142662539304,
+            "Vol_Z_Score": -0.1406721765168741,
             "Band_Width": 0.0201614417074548,
             "Reservas Internacionales": null
         },
@@ -13153,7 +13153,7 @@
             "Lower_Band": 18.516433860082785,
             "Log_Ret": 0.0004406839486089,
             "Volatility_30d": 7.279626824616665,
-            "Vol_Z_Score": -0.1521612242343645,
+            "Vol_Z_Score": -0.1519433855530566,
             "Band_Width": 0.0183269527601305,
             "Reservas Internacionales": null
         },
@@ -13169,7 +13169,7 @@
             "Lower_Band": 18.528110378312576,
             "Log_Ret": -0.0005554367862596,
             "Volatility_30d": 7.241179803948674,
-            "Vol_Z_Score": -0.165606817795902,
+            "Vol_Z_Score": -0.1654179709397256,
             "Band_Width": 0.0158918885282882,
             "Reservas Internacionales": null
         },
@@ -13185,7 +13185,7 @@
             "Lower_Band": 18.528234951322503,
             "Log_Ret": 0.004312881910952,
             "Volatility_30d": 7.345404724533948,
-            "Vol_Z_Score": -0.1291575456071773,
+            "Vol_Z_Score": -0.1288901056475703,
             "Band_Width": 0.0158544859189384,
             "Reservas Internacionales": null
         },
@@ -13201,7 +13201,7 @@
             "Lower_Band": 18.53724551529825,
             "Log_Ret": -0.0011807278524657,
             "Volatility_30d": 7.141630705753402,
-            "Vol_Z_Score": -0.2004208733584859,
+            "Vol_Z_Score": -0.2003070936985899,
             "Band_Width": 0.0154477046353566,
             "Reservas Internacionales": null
         },
@@ -13217,7 +13217,7 @@
             "Lower_Band": 18.546198425584056,
             "Log_Ret": 0.001025815771891,
             "Volatility_30d": 7.144372197941477,
-            "Vol_Z_Score": -0.1994621257345463,
+            "Vol_Z_Score": -0.1993462787919132,
             "Band_Width": 0.0151152934800547,
             "Reservas Internacionales": null
         },
@@ -13233,7 +13233,7 @@
             "Lower_Band": 18.56153651902295,
             "Log_Ret": 2.994542904139549e-05,
             "Volatility_30d": 7.1133429701778175,
-            "Vol_Z_Score": -0.2103135877669709,
+            "Vol_Z_Score": -0.2102211390988898,
             "Band_Width": 0.0142396332315551,
             "Reservas Internacionales": null
         },
@@ -13249,7 +13249,7 @@
             "Lower_Band": 18.56115937157117,
             "Log_Ret": -0.0039321428788741,
             "Volatility_30d": 6.114286719467313,
-            "Vol_Z_Score": -0.5597009800480773,
+            "Vol_Z_Score": -0.5603618918124543,
             "Band_Width": 0.014262294630402,
             "Reservas Internacionales": null
         },
@@ -13265,7 +13265,7 @@
             "Lower_Band": 18.571751583531984,
             "Log_Ret": -0.0015757628511312,
             "Volatility_30d": 6.127543743632813,
-            "Vol_Z_Score": -0.5550647675232093,
+            "Vol_Z_Score": -0.5557156825357005,
             "Band_Width": 0.01339849514021,
             "Reservas Internacionales": null
         },
@@ -13281,7 +13281,7 @@
             "Lower_Band": 18.56376126472165,
             "Log_Ret": -0.0022955271313619,
             "Volatility_30d": 5.942093175541924,
-            "Vol_Z_Score": -0.6199200650464926,
+            "Vol_Z_Score": -0.6207108231559837,
             "Band_Width": 0.0140487333522116,
             "Reservas Internacionales": null
         },
@@ -13297,7 +13297,7 @@
             "Lower_Band": 18.51697625583409,
             "Log_Ret": -0.0068475664331676,
             "Volatility_30d": 6.199307494499414,
-            "Vol_Z_Score": -0.5299677324385872,
+            "Vol_Z_Score": -0.5305645324096587,
             "Band_Width": 0.0172122883973971,
             "Reservas Internacionales": null
         },
@@ -13313,7 +13313,7 @@
             "Lower_Band": 18.47468485407152,
             "Log_Ret": -0.0003800122298847,
             "Volatility_30d": 6.194330583121959,
-            "Vol_Z_Score": -0.5317082451339902,
+            "Vol_Z_Score": -0.5323087980550131,
             "Band_Width": 0.0202754590680534,
             "Reservas Internacionales": null
         },
@@ -13329,7 +13329,7 @@
             "Lower_Band": 18.417515510611388,
             "Log_Ret": -0.0046439503387389,
             "Volatility_30d": 6.288319216295157,
-            "Vol_Z_Score": -0.4988387811522619,
+            "Vol_Z_Score": -0.4993684598684709,
             "Band_Width": 0.0242634235070374,
             "Reservas Internacionales": null
         },
@@ -13345,7 +13345,7 @@
             "Lower_Band": 18.35496971982773,
             "Log_Ret": -0.0041323587979201,
             "Volatility_30d": 6.067505462643597,
-            "Vol_Z_Score": -0.576061201324554,
+            "Vol_Z_Score": -0.5767573895289178,
             "Band_Width": 0.028154915063299,
             "Reservas Internacionales": null
         },
@@ -13361,7 +13361,7 @@
             "Lower_Band": 18.30809907752301,
             "Log_Ret": 0.0012023611256422,
             "Volatility_30d": 5.794396454826762,
-            "Vol_Z_Score": -0.6715721837960047,
+            "Vol_Z_Score": -0.6724743158799957,
             "Band_Width": 0.0307525360245935,
             "Reservas Internacionales": null
         },
@@ -13377,7 +13377,7 @@
             "Lower_Band": 18.28020512773081,
             "Log_Ret": 0.003075934892007,
             "Volatility_30d": 5.8836384274129,
-            "Vol_Z_Score": -0.6403627097931962,
+            "Vol_Z_Score": -0.6411975469966306,
             "Band_Width": 0.0317834778093051,
             "Reservas Internacionales": null
         },
@@ -13393,7 +13393,7 @@
             "Lower_Band": 18.26371444053213,
             "Log_Ret": 0.0030447579784259,
             "Volatility_30d": 5.9613569491735445,
-            "Vol_Z_Score": -0.6131831874884384,
+            "Vol_Z_Score": -0.6139594193239347,
             "Band_Width": 0.0326425141838147,
             "Reservas Internacionales": null
         },
@@ -13409,7 +13409,7 @@
             "Lower_Band": 18.238929215047108,
             "Log_Ret": -0.003399302948918,
             "Volatility_30d": 5.8854195158834175,
-            "Vol_Z_Score": -0.6397398320966767,
+            "Vol_Z_Score": -0.6405733262310102,
             "Band_Width": 0.0335884690446822,
             "Reservas Internacionales": null
         },
@@ -13425,7 +13425,7 @@
             "Lower_Band": 18.214974216640723,
             "Log_Ret": -0.0006097622318963,
             "Volatility_30d": 5.76579401630035,
-            "Vol_Z_Score": -0.6815749553141417,
+            "Vol_Z_Score": -0.6824986556986585,
             "Band_Width": 0.034517917259901,
             "Reservas Internacionales": null
         },
@@ -13441,7 +13441,7 @@
             "Lower_Band": 18.20425727337953,
             "Log_Ret": 0.0039297453596295,
             "Volatility_30d": 5.842819062634872,
-            "Vol_Z_Score": -0.6546379534586294,
+            "Vol_Z_Score": -0.6555035714056705,
             "Band_Width": 0.0344417473456852,
             "Reservas Internacionales": null
         },
@@ -13457,7 +13457,7 @@
             "Lower_Band": 18.201267889446516,
             "Log_Ret": 0.0035433658575288,
             "Volatility_30d": 5.149023711170515,
-            "Vol_Z_Score": -0.8972702861751246,
+            "Vol_Z_Score": -0.8986590758311109,
             "Band_Width": 0.0338828898889835,
             "Reservas Internacionales": null
         },
@@ -13473,7 +13473,7 @@
             "Lower_Band": 18.186486757501715,
             "Log_Ret": -0.0068165954567647,
             "Volatility_30d": 5.364068585883216,
-            "Vol_Z_Score": -0.8220653435646815,
+            "Vol_Z_Score": -0.8232919738830968,
             "Band_Width": 0.0338871713835776,
             "Reservas Internacionales": null
         },
@@ -13489,7 +13489,7 @@
             "Lower_Band": 18.17414264961677,
             "Log_Ret": 2.4518754510919812e-05,
             "Volatility_30d": 5.298096687937178,
-            "Vol_Z_Score": -0.8451368666854361,
+            "Vol_Z_Score": -0.8464132445706488,
             "Band_Width": 0.0336852828018628,
             "Reservas Internacionales": null
         },
@@ -13505,7 +13505,7 @@
             "Lower_Band": 18.1666264304963,
             "Log_Ret": -0.0024633961871604,
             "Volatility_30d": 5.210352329026299,
-            "Vol_Z_Score": -0.8758225990708217,
+            "Vol_Z_Score": -0.8771651425279209,
             "Band_Width": 0.0322904120524652,
             "Reservas Internacionales": null
         },
@@ -13521,7 +13521,7 @@
             "Lower_Band": 18.17125671452614,
             "Log_Ret": 0.0037350534903617,
             "Volatility_30d": 5.351077635613716,
-            "Vol_Z_Score": -0.8266085054083576,
+            "Vol_Z_Score": -0.8278449318397606,
             "Band_Width": 0.0300592832850879,
             "Reservas Internacionales": null
         },
@@ -13537,7 +13537,7 @@
             "Lower_Band": 18.188013075878853,
             "Log_Ret": 0.0016111275351769,
             "Volatility_30d": 5.382397560909068,
-            "Vol_Z_Score": -0.8156553813799562,
+            "Vol_Z_Score": -0.8168681903299129,
             "Band_Width": 0.0265643807582636,
             "Reservas Internacionales": null
         },
@@ -13553,7 +13553,7 @@
             "Lower_Band": 18.21595343675376,
             "Log_Ret": 0.0011578065091794,
             "Volatility_30d": 4.9649417688771935,
-            "Vol_Z_Score": -0.961646951391087,
+            "Vol_Z_Score": -0.9631745521015612,
             "Band_Width": 0.0219605357509195,
             "Reservas Internacionales": null
         },
@@ -13569,7 +13569,7 @@
             "Lower_Band": 18.23030304213918,
             "Log_Ret": -0.0052074568082599,
             "Volatility_30d": 4.918217853459307,
-            "Vol_Z_Score": -0.9779871193780332,
+            "Vol_Z_Score": -0.9795499532889408,
             "Band_Width": 0.0187065563493727,
             "Reservas Internacionales": null
         },
@@ -13585,7 +13585,7 @@
             "Lower_Band": 18.253577086328296,
             "Log_Ret": 0.0027741291463136,
             "Volatility_30d": 5.010031869930096,
-            "Vol_Z_Score": -0.9458781567778096,
+            "Vol_Z_Score": -0.9473717563016592,
             "Band_Width": 0.0149097781495835,
             "Reservas Internacionales": null
         },
@@ -13601,7 +13601,7 @@
             "Lower_Band": 18.27242469189258,
             "Log_Ret": -0.0029616822667595,
             "Volatility_30d": 5.060951797594504,
-            "Vol_Z_Score": -0.9280705701387608,
+            "Vol_Z_Score": -0.9295257723664636,
             "Band_Width": 0.0115266543877614,
             "Reservas Internacionales": null
         },
@@ -13617,7 +13617,7 @@
             "Lower_Band": 18.27498094376035,
             "Log_Ret": 0.0026842833949713,
             "Volatility_30d": 5.146762748928387,
-            "Vol_Z_Score": -0.8980609840975504,
+            "Vol_Z_Score": -0.8994514786820543,
             "Band_Width": 0.0108665753564916,
             "Reservas Internacionales": null
         },
@@ -13633,7 +13633,7 @@
             "Lower_Band": 18.262847499651222,
             "Log_Ret": 0.0075305487398458,
             "Volatility_30d": 5.643256654373517,
-            "Vol_Z_Score": -0.7244284075698827,
+            "Vol_Z_Score": -0.725444509958699,
             "Band_Width": 0.0125950026669612,
             "Reservas Internacionales": null
         },
@@ -13649,7 +13649,7 @@
             "Lower_Band": 18.26270541280753,
             "Log_Ret": -0.0034661761542597,
             "Volatility_30d": 5.719753754997751,
-            "Vol_Z_Score": -0.6976760375355039,
+            "Vol_Z_Score": -0.6986344555959682,
             "Band_Width": 0.0131335918478017,
             "Reservas Internacionales": null
         },
@@ -13665,7 +13665,7 @@
             "Lower_Band": 18.271294994245647,
             "Log_Ret": 0.0024927919717741,
             "Volatility_30d": 5.614422405967863,
-            "Vol_Z_Score": -0.7345122470450599,
+            "Vol_Z_Score": -0.7355500925357616,
             "Band_Width": 0.0133800907259851,
             "Reservas Internacionales": null
         },
@@ -13681,7 +13681,7 @@
             "Lower_Band": 18.28291323737583,
             "Log_Ret": -0.0026661995214928,
             "Volatility_30d": 5.648736110509693,
-            "Vol_Z_Score": -0.7225121462090476,
+            "Vol_Z_Score": -0.7235241166929371,
             "Band_Width": 0.0129124632967922,
             "Reservas Internacionales": null
         },
@@ -13697,7 +13697,7 @@
             "Lower_Band": 18.286937355009723,
             "Log_Ret": -0.0013446703261355,
             "Volatility_30d": 5.636643021190516,
-            "Vol_Z_Score": -0.7267413104216182,
+            "Vol_Z_Score": -0.7277623999666144,
             "Band_Width": 0.0128319964776454,
             "Reservas Internacionales": null
         },
@@ -13713,7 +13713,7 @@
             "Lower_Band": 18.283060668530183,
             "Log_Ret": -0.0035656752762665,
             "Volatility_30d": 5.701552594816255,
-            "Vol_Z_Score": -0.7040413006403401,
+            "Vol_Z_Score": -0.7050134436876566,
             "Band_Width": 0.0129536652325153,
             "Reservas Internacionales": null
         },
@@ -13729,7 +13729,7 @@
             "Lower_Band": 18.28698165044363,
             "Log_Ret": 0.0018860744141981,
             "Volatility_30d": 5.65972706873959,
-            "Vol_Z_Score": -0.7186684164572111,
+            "Vol_Z_Score": -0.7196720989662851,
             "Band_Width": 0.0127525701616936,
             "Reservas Internacionales": null
         },
@@ -13745,7 +13745,7 @@
             "Lower_Band": 18.293939376338077,
             "Log_Ret": 0.0018857313618233,
             "Volatility_30d": 5.6890627107096,
-            "Vol_Z_Score": -0.7084092309093458,
+            "Vol_Z_Score": -0.7093907922296426,
             "Band_Width": 0.0124694744746637,
             "Reservas Internacionales": null
         },
@@ -13761,7 +13761,7 @@
             "Lower_Band": 18.29422254621495,
             "Log_Ret": 0.0002929798753509,
             "Volatility_30d": 5.661172524005409,
-            "Vol_Z_Score": -0.7181629155451009,
+            "Vol_Z_Score": -0.7191655080767053,
             "Band_Width": 0.0125507827441059,
             "Reservas Internacionales": null
         },
@@ -13777,7 +13777,7 @@
             "Lower_Band": 18.29499286436,
             "Log_Ret": -0.0024923434097587,
             "Volatility_30d": 5.352738107416272,
-            "Vol_Z_Score": -0.8260278094639215,
+            "Vol_Z_Score": -0.8272629837798862,
             "Band_Width": 0.011978351423529,
             "Reservas Internacionales": null
         },
@@ -13793,7 +13793,7 @@
             "Lower_Band": 18.300101361638976,
             "Log_Ret": 0.0013657843558227,
             "Volatility_30d": 5.368955063645058,
-            "Vol_Z_Score": -0.8203564570816279,
+            "Vol_Z_Score": -0.821579402643557,
             "Band_Width": 0.0117483443880328,
             "Reservas Internacionales": null
         },
@@ -13809,7 +13809,7 @@
             "Lower_Band": 18.303694483356928,
             "Log_Ret": -0.0015979873676338,
             "Volatility_30d": 5.212840753609117,
-            "Vol_Z_Score": -0.8749523536013992,
+            "Vol_Z_Score": -0.8762930206069787,
             "Band_Width": 0.0115217799775143,
             "Reservas Internacionales": null
         },
@@ -13825,7 +13825,7 @@
             "Lower_Band": 18.31924509262632,
             "Log_Ret": 0.0019519785232081,
             "Volatility_30d": 5.085307638506092,
-            "Vol_Z_Score": -0.9195529078581224,
+            "Vol_Z_Score": -0.9209897440260272,
             "Band_Width": 0.01043451688441,
             "Reservas Internacionales": null
         },
@@ -13841,7 +13841,7 @@
             "Lower_Band": 18.322209915482045,
             "Log_Ret": 0.0021923864898488,
             "Volatility_30d": 5.109401996975484,
-            "Vol_Z_Score": -0.9111266905472152,
+            "Vol_Z_Score": -0.912545357831933,
             "Band_Width": 0.0105626878049171,
             "Reservas Internacionales": null
         },
@@ -13857,7 +13857,7 @@
             "Lower_Band": 18.317096387452363,
             "Log_Ret": 0.0032278068799183,
             "Volatility_30d": 5.116791749328148,
-            "Vol_Z_Score": -0.9085423652879872,
+            "Vol_Z_Score": -0.9099554601667228,
             "Band_Width": 0.0117299567441146,
             "Reservas Internacionales": null
         },
@@ -13873,7 +13873,7 @@
             "Lower_Band": 18.30868529015779,
             "Log_Ret": 0.0015468879480988,
             "Volatility_30d": 5.06490356133982,
-            "Vol_Z_Score": -0.9266885694467027,
+            "Vol_Z_Score": -0.928140791759669,
             "Band_Width": 0.0132939478333053,
             "Reservas Internacionales": null
         },
@@ -13889,7 +13889,7 @@
             "Lower_Band": 18.321920711052428,
             "Log_Ret": -0.0033692667509395,
             "Volatility_30d": 5.063034577782385,
-            "Vol_Z_Score": -0.9273421855878202,
+            "Vol_Z_Score": -0.928795817249119,
             "Band_Width": 0.0126884277553631,
             "Reservas Internacionales": null
         },
@@ -13905,7 +13905,7 @@
             "Lower_Band": 18.298109133026557,
             "Log_Ret": 0.0098921576742185,
             "Volatility_30d": 5.774373171114343,
-            "Vol_Z_Score": -0.6785746752735482,
+            "Vol_Z_Score": -0.6794919063568859,
             "Band_Width": 0.0168144278784003,
             "Reservas Internacionales": null
         },
@@ -13921,7 +13921,7 @@
             "Lower_Band": 18.30997804739575,
             "Log_Ret": -0.0045510872728744,
             "Volatility_30d": 5.870790567507803,
-            "Vol_Z_Score": -0.6448558304412504,
+            "Vol_Z_Score": -0.6457003558572226,
             "Band_Width": 0.0169065680683938,
             "Reservas Internacionales": null
         },
@@ -13937,7 +13937,7 @@
             "Lower_Band": 18.318746012040908,
             "Log_Ret": -0.0018521522798167,
             "Volatility_30d": 5.8206009460336245,
-            "Vol_Z_Score": -0.6624080162705949,
+            "Vol_Z_Score": -0.6632903882792008,
             "Band_Width": 0.0168851773646266,
             "Reservas Internacionales": null
         },
@@ -13953,7 +13953,7 @@
             "Lower_Band": 18.315912028626716,
             "Log_Ret": -0.0060842481212019,
             "Volatility_30d": 5.748070743630478,
-            "Vol_Z_Score": -0.6877730928228252,
+            "Vol_Z_Score": -0.6887101578325607,
             "Band_Width": 0.0167698284849091,
             "Reservas Internacionales": null
         },
@@ -13969,7 +13969,7 @@
             "Lower_Band": 18.30656538670094,
             "Log_Ret": -0.0035381643748245,
             "Volatility_30d": 5.846954436624103,
-            "Vol_Z_Score": -0.6531917410625034,
+            "Vol_Z_Score": -0.6540542406394481,
             "Band_Width": 0.0173541237214807,
             "Reservas Internacionales": null
         },
@@ -13985,7 +13985,7 @@
             "Lower_Band": 18.28492199624672,
             "Log_Ret": -0.0033763953560046,
             "Volatility_30d": 5.886715026251698,
-            "Vol_Z_Score": -0.6392867695299544,
+            "Vol_Z_Score": -0.6401192867560802,
             "Band_Width": 0.0186911326659662,
             "Reservas Internacionales": null
         },
@@ -14001,7 +14001,7 @@
             "Lower_Band": 18.260596172730576,
             "Log_Ret": -0.0015763417407471,
             "Volatility_30d": 5.794834133155839,
-            "Vol_Z_Score": -0.671419120052151,
+            "Vol_Z_Score": -0.6723209220951307,
             "Band_Width": 0.02042987081519,
             "Reservas Internacionales": null
         },
@@ -14017,7 +14017,7 @@
             "Lower_Band": 18.24558840863173,
             "Log_Ret": 0.0014862635418753,
             "Volatility_30d": 5.791607671132827,
-            "Vol_Z_Score": -0.6725474700842065,
+            "Vol_Z_Score": -0.6734517051121389,
             "Band_Width": 0.0214385512656188,
             "Reservas Internacionales": null
         },
@@ -14033,7 +14033,7 @@
             "Lower_Band": 18.23618760960957,
             "Log_Ret": -0.0004680165273489,
             "Volatility_30d": 5.778222863456441,
-            "Vol_Z_Score": -0.6772283707311026,
+            "Vol_Z_Score": -0.6781426988688999,
             "Band_Width": 0.0221455384953636,
             "Reservas Internacionales": null
         },
@@ -14049,7 +14049,7 @@
             "Lower_Band": 18.23872091380727,
             "Log_Ret": 0.006873809148181,
             "Volatility_30d": 5.932785139318166,
-            "Vol_Z_Score": -0.6231752476262163,
+            "Vol_Z_Score": -0.6239730246660127,
             "Band_Width": 0.0220495289523743,
             "Reservas Internacionales": null
         },
@@ -14065,7 +14065,7 @@
             "Lower_Band": 18.229009652553252,
             "Log_Ret": -0.0050199032317422,
             "Volatility_30d": 6.064368656740063,
-            "Vol_Z_Score": -0.5771581970482164,
+            "Vol_Z_Score": -0.5778567506303558,
             "Band_Width": 0.022600365700114,
             "Reservas Internacionales": null
         },
@@ -14081,7 +14081,7 @@
             "Lower_Band": 18.216026825414936,
             "Log_Ret": -0.0012876889306346,
             "Volatility_30d": 6.0146267138135885,
-            "Vol_Z_Score": -0.5945538218828711,
+            "Vol_Z_Score": -0.595289884475747,
             "Band_Width": 0.023350947856272,
             "Reservas Internacionales": null
         },
@@ -14097,7 +14097,7 @@
             "Lower_Band": 18.213270127338404,
             "Log_Ret": 0.0026770606441031,
             "Volatility_30d": 6.014343670431777,
-            "Vol_Z_Score": -0.5946528070891627,
+            "Vol_Z_Score": -0.5953890831171526,
             "Band_Width": 0.0235015566537269,
             "Reservas Internacionales": null
         },
@@ -14113,7 +14113,7 @@
             "Lower_Band": 18.215219476031145,
             "Log_Ret": 0.0058621976035387,
             "Volatility_30d": 5.849226203291641,
-            "Vol_Z_Score": -0.6523972646441059,
+            "Vol_Z_Score": -0.6532580511452173,
             "Band_Width": 0.0235856822074593,
             "Reservas Internacionales": null
         },
@@ -14129,7 +14129,7 @@
             "Lower_Band": 18.219801107380825,
             "Log_Ret": 0.0010668878984799,
             "Volatility_30d": 5.768682228388256,
-            "Vol_Z_Score": -0.6805648971827496,
+            "Vol_Z_Score": -0.6814864196471483,
             "Band_Width": 0.0236475586460717,
             "Reservas Internacionales": null
         },
@@ -14145,7 +14145,7 @@
             "Lower_Band": 18.21662921274569,
             "Log_Ret": -0.0058515711663208,
             "Volatility_30d": 5.96689297590522,
-            "Vol_Z_Score": -0.6112471424038867,
+            "Vol_Z_Score": -0.6120191996761493,
             "Band_Width": 0.0237796130764945,
             "Reservas Internacionales": null
         },
@@ -14161,7 +14161,7 @@
             "Lower_Band": 18.20663232879988,
             "Log_Ret": -0.0025448869221914,
             "Volatility_30d": 5.962663598014914,
-            "Vol_Z_Score": -0.6127262296034458,
+            "Vol_Z_Score": -0.6135014761315228,
             "Band_Width": 0.0241850204093064,
             "Reservas Internacionales": null
         },
@@ -14177,7 +14177,7 @@
             "Lower_Band": 18.19738001427874,
             "Log_Ret": -0.0005111082405567,
             "Volatility_30d": 5.953772393653719,
-            "Vol_Z_Score": -0.6158356388121735,
+            "Vol_Z_Score": -0.6166175899492832,
             "Band_Width": 0.0241394889002087,
             "Reservas Internacionales": null
         },
@@ -14193,7 +14193,7 @@
             "Lower_Band": 18.185522362689284,
             "Log_Ret": -0.0024634925803855,
             "Volatility_30d": 5.907742444235456,
-            "Vol_Z_Score": -0.6319331147877663,
+            "Vol_Z_Score": -0.6327497758249192,
             "Band_Width": 0.0239809981852451,
             "Reservas Internacionales": null
         },
@@ -14209,7 +14209,7 @@
             "Lower_Band": 18.17573959824547,
             "Log_Ret": 0.0011697305136505,
             "Volatility_30d": 5.88995371760399,
-            "Vol_Z_Score": -0.6381541426881968,
+            "Vol_Z_Score": -0.6389842177075739,
             "Band_Width": 0.0240468392093506,
             "Reservas Internacionales": null
         },
@@ -14225,7 +14225,7 @@
             "Lower_Band": 18.192475228091592,
             "Log_Ret": -0.0016751603473991,
             "Volatility_30d": 5.8723597028741885,
-            "Vol_Z_Score": -0.6443070764412552,
+            "Vol_Z_Score": -0.6451504186160463,
             "Band_Width": 0.0200737021282727,
             "Reservas Internacionales": null
         },
@@ -14241,7 +14241,7 @@
             "Lower_Band": 18.20136629816975,
             "Log_Ret": -3.339774924230223e-06,
             "Volatility_30d": 5.870437872324068,
-            "Vol_Z_Score": -0.6449791740972534,
+            "Vol_Z_Score": -0.6458239654708191,
             "Band_Width": 0.0174041791325807,
             "Reservas Internacionales": null
         },
@@ -14257,7 +14257,7 @@
             "Lower_Band": 18.200771684870208,
             "Log_Ret": -0.00310193059033,
             "Volatility_30d": 5.8928509335117685,
-            "Vol_Z_Score": -0.6371409357639879,
+            "Vol_Z_Score": -0.6379688260737175,
             "Band_Width": 0.0156441250312971,
             "Reservas Internacionales": null
         },
@@ -14273,7 +14273,7 @@
             "Lower_Band": 18.17572693318503,
             "Log_Ret": -0.0025830583085999,
             "Volatility_30d": 5.905889538902011,
-            "Vol_Z_Score": -0.6325811080935844,
+            "Vol_Z_Score": -0.63339916635493,
             "Band_Width": 0.0169036721428049,
             "Reservas Internacionales": null
         },
@@ -14289,7 +14289,7 @@
             "Lower_Band": 18.168532654400984,
             "Log_Ret": 0.0048857314609933,
             "Volatility_30d": 6.092414723458112,
-            "Vol_Z_Score": -0.5673499984534004,
+            "Vol_Z_Score": -0.5680274032794648,
             "Band_Width": 0.0170503745824048,
             "Reservas Internacionales": null
         },
@@ -14305,7 +14305,7 @@
             "Lower_Band": 18.149339459090097,
             "Log_Ret": -0.0042860468362013,
             "Volatility_30d": 6.165724009575581,
-            "Vol_Z_Score": -0.5417124627407149,
+            "Vol_Z_Score": -0.542334587080367,
             "Band_Width": 0.0184198328163083,
             "Reservas Internacionales": null
         },
@@ -14321,7 +14321,7 @@
             "Lower_Band": 18.12843201376732,
             "Log_Ret": -0.001381440858632,
             "Volatility_30d": 6.11986317905752,
-            "Vol_Z_Score": -0.5577507948878349,
+            "Vol_Z_Score": -0.558407501599688,
             "Band_Width": 0.0199978015481053,
             "Reservas Internacionales": null
         },
@@ -14337,7 +14337,7 @@
             "Lower_Band": 18.075590148424645,
             "Log_Ret": -0.0069557561795623,
             "Volatility_30d": 6.281559274613076,
-            "Vol_Z_Score": -0.5012028506374336,
+            "Vol_Z_Score": -0.5017376268369779,
             "Band_Width": 0.0242400049783241,
             "Reservas Internacionales": null
         },
@@ -14353,7 +14353,7 @@
             "Lower_Band": 18.02449897524323,
             "Log_Ret": -0.0015713036226773,
             "Volatility_30d": 6.240860811308789,
-            "Vol_Z_Score": -0.515435812949236,
+            "Vol_Z_Score": -0.5160012787239604,
             "Band_Width": 0.0281908250582693,
             "Reservas Internacionales": null
         },
@@ -14369,7 +14369,7 @@
             "Lower_Band": 17.979350093666213,
             "Log_Ret": -0.001218789866287,
             "Volatility_30d": 6.201052046933612,
-            "Vol_Z_Score": -0.5293576320310792,
+            "Vol_Z_Score": -0.5299531164838549,
             "Band_Width": 0.0306987706356294,
             "Reservas Internacionales": null
         },
@@ -14385,7 +14385,7 @@
             "Lower_Band": 17.932155392753213,
             "Log_Ret": -0.0014024327688432,
             "Volatility_30d": 5.283931116229624,
-            "Vol_Z_Score": -0.8500908141288891,
+            "Vol_Z_Score": -0.8513778738763295,
             "Band_Width": 0.0337989892542562,
             "Reservas Internacionales": null
         },
@@ -14401,7 +14401,7 @@
             "Lower_Band": 17.90294806965932,
             "Log_Ret": 0.0030950015049287,
             "Volatility_30d": 5.340706427940653,
-            "Vol_Z_Score": -0.8302354975833434,
+            "Vol_Z_Score": -0.8314797446529658,
             "Band_Width": 0.0353587179459254,
             "Reservas Internacionales": null
         },
@@ -14417,7 +14417,7 @@
             "Lower_Band": 17.875636467201694,
             "Log_Ret": -0.0010182714962515,
             "Volatility_30d": 5.335350473532633,
-            "Vol_Z_Score": -0.8321085682362358,
+            "Vol_Z_Score": -0.833356854081579,
             "Band_Width": 0.0363492757486446,
             "Reservas Internacionales": null
         },
@@ -14433,7 +14433,7 @@
             "Lower_Band": 17.867534520639484,
             "Log_Ret": 0.0012314146582679,
             "Volatility_30d": 5.150863874436575,
-            "Vol_Z_Score": -0.8966267489924655,
+            "Vol_Z_Score": -0.8980141510326967,
             "Band_Width": 0.034765913605981,
             "Reservas Internacionales": null
         },
@@ -14449,7 +14449,7 @@
             "Lower_Band": 17.862399914694777,
             "Log_Ret": -0.0028627451301508,
             "Volatility_30d": 5.123113989881341,
-            "Vol_Z_Score": -0.9063313675201607,
+            "Vol_Z_Score": -0.9077396949737648,
             "Band_Width": 0.0324659674387716,
             "Reservas Internacionales": null
         },
@@ -14465,7 +14465,7 @@
             "Lower_Band": 17.838289984337184,
             "Log_Ret": -0.0033350086421474,
             "Volatility_30d": 5.121291301747156,
-            "Vol_Z_Score": -0.906968793344474,
+            "Vol_Z_Score": -0.9083784952363244,
             "Band_Width": 0.0325134076220121,
             "Reservas Internacionales": null
         },
@@ -14481,7 +14481,7 @@
             "Lower_Band": 17.821634950873676,
             "Log_Ret": 0.0015504107648388,
             "Volatility_30d": 5.1579754678506085,
-            "Vol_Z_Score": -0.8941397007645748,
+            "Vol_Z_Score": -0.8955217401507151,
             "Band_Width": 0.0321424813120167,
             "Reservas Internacionales": null
         },
@@ -14497,7 +14497,7 @@
             "Lower_Band": 17.80348533055688,
             "Log_Ret": -0.0019878131387826,
             "Volatility_30d": 5.130869760404648,
-            "Vol_Z_Score": -0.903619039324084,
+            "Vol_Z_Score": -0.9050215183676198,
             "Band_Width": 0.0317932134479874,
             "Reservas Internacionales": null
         },
@@ -14513,7 +14513,7 @@
             "Lower_Band": 17.798364234392963,
             "Log_Ret": 0.0042210083607974,
             "Volatility_30d": 5.330975242454591,
-            "Vol_Z_Score": -0.8336386628389141,
+            "Vol_Z_Score": -0.8348902479238894,
             "Band_Width": 0.0306593403766382,
             "Reservas Internacionales": null
         },
@@ -14529,7 +14529,7 @@
             "Lower_Band": 17.80134081182204,
             "Log_Ret": 0.000369363190128,
             "Volatility_30d": 4.848546746314862,
-            "Vol_Z_Score": -1.0023523204617797,
+            "Vol_Z_Score": -1.0039676914098867,
             "Band_Width": 0.0285461788318756,
             "Reservas Internacionales": null
         },
@@ -14545,7 +14545,7 @@
             "Lower_Band": 17.806073555832103,
             "Log_Ret": 0.0003258515844884,
             "Volatility_30d": 4.692254231464723,
-            "Vol_Z_Score": -1.0570105383125876,
+            "Vol_Z_Score": -1.0587437650836211,
             "Band_Width": 0.0264341372108699,
             "Reservas Internacionales": null
         },
@@ -14561,7 +14561,7 @@
             "Lower_Band": 17.807199957593266,
             "Log_Ret": -0.0040951723584859,
             "Volatility_30d": 4.794690673013104,
-            "Vol_Z_Score": -1.021186728430319,
+            "Vol_Z_Score": -1.0228427107400433,
             "Band_Width": 0.0243163680271939,
             "Reservas Internacionales": null
         },
@@ -14577,7 +14577,7 @@
             "Lower_Band": 17.806607218579575,
             "Log_Ret": 0.0002535191230722,
             "Volatility_30d": 4.694726383906773,
-            "Vol_Z_Score": -1.056145983494543,
+            "Vol_Z_Score": -1.0578773460844244,
             "Band_Width": 0.0227209131645201,
             "Reservas Internacionales": null
         },
@@ -14593,7 +14593,7 @@
             "Lower_Band": 17.811437527072908,
             "Log_Ret": 0.0037716550139762,
             "Volatility_30d": 4.469578886639659,
-            "Vol_Z_Score": -1.1348839893804288,
+            "Vol_Z_Score": -1.1367851294135596,
             "Band_Width": 0.0211506928209169,
             "Reservas Internacionales": null
         },
@@ -14609,7 +14609,7 @@
             "Lower_Band": 17.841331487038588,
             "Log_Ret": -0.0002891657894804,
             "Volatility_30d": 4.434949418268276,
-            "Vol_Z_Score": -1.1469945183338828,
+            "Vol_Z_Score": -1.1489217714825155,
             "Band_Width": 0.0162735195058488,
             "Reservas Internacionales": null
         },
@@ -14625,7 +14625,7 @@
             "Lower_Band": 17.862413285413247,
             "Log_Ret": -0.0008848828744502,
             "Volatility_30d": 4.183682734761074,
-            "Vol_Z_Score": -1.2348668591107603,
+            "Vol_Z_Score": -1.2369835854519335,
             "Band_Width": 0.0127130977362931,
             "Reservas Internacionales": null
         },
@@ -14641,7 +14641,7 @@
             "Lower_Band": 17.89116530757381,
             "Log_Ret": 0.0006572889996157,
             "Volatility_30d": 4.168987107338466,
-            "Vol_Z_Score": -1.240006176280808,
+            "Vol_Z_Score": -1.2421339841844283,
             "Band_Width": 0.0084990164593678,
             "Reservas Internacionales": null
         },
@@ -14657,7 +14657,7 @@
             "Lower_Band": 17.88704875900617,
             "Log_Ret": -0.0036234296388881,
             "Volatility_30d": 4.255379161921638,
-            "Vol_Z_Score": -1.209793368300121,
+            "Vol_Z_Score": -1.211856030366802,
             "Band_Width": 0.008278604556763,
             "Reservas Internacionales": null
         },
@@ -14673,7 +14673,7 @@
             "Lower_Band": 17.85851659606104,
             "Log_Ret": -0.0047854750493347,
             "Volatility_30d": 4.3866946302315775,
-            "Vol_Z_Score": -1.163870059170777,
+            "Vol_Z_Score": -1.1658336999081544,
             "Band_Width": 0.0104608091407717,
             "Reservas Internacionales": null
         },
@@ -14689,7 +14689,7 @@
             "Lower_Band": 17.823868402347106,
             "Log_Ret": -0.0021399704268644,
             "Volatility_30d": 4.35900223387508,
-            "Vol_Z_Score": -1.173554573072903,
+            "Vol_Z_Score": -1.1755390958734075,
             "Band_Width": 0.013237366147936,
             "Reservas Internacionales": null
         },
@@ -14705,7 +14705,7 @@
             "Lower_Band": 17.75220580384806,
             "Log_Ret": -0.0074607976795274,
             "Volatility_30d": 4.746624100430571,
-            "Vol_Z_Score": -1.0379964470408165,
+            "Vol_Z_Score": -1.0396886750112644,
             "Band_Width": 0.0195542309464052,
             "Reservas Internacionales": null
         },
@@ -14721,7 +14721,7 @@
             "Lower_Band": 17.694018008396046,
             "Log_Ret": -0.0011703785119756,
             "Volatility_30d": 4.734070993107876,
-            "Vol_Z_Score": -1.0423864875709488,
+            "Vol_Z_Score": -1.0440881814892398,
             "Band_Width": 0.0239563354502231,
             "Reservas Internacionales": null
         },
@@ -14737,7 +14737,7 @@
             "Lower_Band": 17.63120099149166,
             "Log_Ret": -0.0031553570184135,
             "Volatility_30d": 4.7359678863277495,
-            "Vol_Z_Score": -1.041723110934192,
+            "Vol_Z_Score": -1.0434233744582528,
             "Band_Width": 0.0286802415291087,
             "Reservas Internacionales": null
         },
@@ -14753,7 +14753,7 @@
             "Lower_Band": 17.585683806507518,
             "Log_Ret": 0.0008472381234392,
             "Volatility_30d": 4.752917877767602,
-            "Vol_Z_Score": -1.0357954033560195,
+            "Vol_Z_Score": -1.0374828853646532,
             "Band_Width": 0.0314385665138129,
             "Reservas Internacionales": null
         },
@@ -14769,7 +14769,7 @@
             "Lower_Band": 17.51767703978766,
             "Log_Ret": -0.0062438145155592,
             "Volatility_30d": 4.631940924195901,
-            "Vol_Z_Score": -1.0781031535997811,
+            "Vol_Z_Score": -1.0798818609523286,
             "Band_Width": 0.0364048451697964,
             "Reservas Internacionales": null
         },
@@ -14785,7 +14785,7 @@
             "Lower_Band": 17.45708482032849,
             "Log_Ret": -0.0008240478348541,
             "Volatility_30d": 4.555896540598495,
-            "Vol_Z_Score": -1.1046972005954605,
+            "Vol_Z_Score": -1.106533250895086,
             "Band_Width": 0.0408019616339472,
             "Reservas Internacionales": null
         },
@@ -14801,7 +14801,7 @@
             "Lower_Band": 17.38158483914631,
             "Log_Ret": -0.0056041473660058,
             "Volatility_30d": 4.720941171559421,
-            "Vol_Z_Score": -1.0469782151224942,
+            "Vol_Z_Score": -1.0486898098727282,
             "Band_Width": 0.0461967233124916,
             "Reservas Internacionales": null
         },
@@ -14817,7 +14817,7 @@
             "Lower_Band": 17.314086600331812,
             "Log_Ret": -0.0008684876744665,
             "Volatility_30d": 4.427599403535479,
-            "Vol_Z_Score": -1.1495649466545037,
+            "Vol_Z_Score": -1.151497742244089,
             "Band_Width": 0.0508203047726049,
             "Reservas Internacionales": null
         },
@@ -14833,7 +14833,7 @@
             "Lower_Band": 17.21078573289172,
             "Log_Ret": -0.0111769087635547,
             "Volatility_30d": 5.277357698408245,
-            "Vol_Z_Score": -0.8523896529673953,
+            "Vol_Z_Score": -0.8536816695457339,
             "Band_Width": 0.0580244173864644,
             "Reservas Internacionales": null
         },
@@ -14849,7 +14849,7 @@
             "Lower_Band": 17.12385902605139,
             "Log_Ret": -0.0007344251835705,
             "Volatility_30d": 5.282216252881568,
-            "Vol_Z_Score": -0.8506905317452592,
+            "Vol_Z_Score": -0.8519788846232841,
             "Band_Width": 0.0633043595597386,
             "Reservas Internacionales": null
         },
@@ -14865,7 +14865,7 @@
             "Lower_Band": 17.06908985985655,
             "Log_Ret": 0.0043798796072145,
             "Volatility_30d": 5.557588634173177,
-            "Vol_Z_Score": -0.7543880081012798,
+            "Vol_Z_Score": -0.7554687103529166,
             "Band_Width": 0.0653442040538433,
             "Reservas Internacionales": null
         },
@@ -14881,7 +14881,7 @@
             "Lower_Band": 17.05579068544054,
             "Log_Ret": 0.013934860275916,
             "Volatility_30d": 7.014080715468064,
-            "Vol_Z_Score": -0.2450273291607307,
+            "Vol_Z_Score": -0.245009731388264,
             "Band_Width": 0.0644149252231243,
             "Reservas Internacionales": null
         },
@@ -14897,7 +14897,7 @@
             "Lower_Band": 17.035954556569916,
             "Log_Ret": -0.0052574819708837,
             "Volatility_30d": 7.120584083382435,
-            "Vol_Z_Score": -0.2077812442097644,
+            "Vol_Z_Score": -0.2076833352203335,
             "Band_Width": 0.0636973119748819,
             "Reservas Internacionales": null
         },
@@ -14913,7 +14913,7 @@
             "Lower_Band": 17.00805998756,
             "Log_Ret": -0.0079102012248926,
             "Volatility_30d": 7.342673251050032,
-            "Vol_Z_Score": -0.1301127895155675,
+            "Vol_Z_Score": -0.1298474092838724,
             "Band_Width": 0.0627668431750068,
             "Reservas Internacionales": null
         },
@@ -14929,7 +14929,7 @@
             "Lower_Band": 17.003174598791254,
             "Log_Ret": 0.0049753836607438,
             "Volatility_30d": 7.561628096469813,
-            "Vol_Z_Score": -0.0535404619673186,
+            "Vol_Z_Score": -0.0531099739982794,
             "Band_Width": 0.0597109269532867,
             "Reservas Internacionales": null
         },
@@ -14945,7 +14945,7 @@
             "Lower_Band": 17.022146730169997,
             "Log_Ret": 0.0102917179757198,
             "Volatility_30d": 8.23045291910645,
-            "Vol_Z_Score": 0.1803592413854215,
+            "Vol_Z_Score": 0.1812940714846079,
             "Band_Width": 0.0550007368265869,
             "Reservas Internacionales": null
         },
@@ -14961,7 +14961,7 @@
             "Lower_Band": 17.028142166136107,
             "Log_Ret": -0.014495869133254,
             "Volatility_30d": 9.107209709896573,
-            "Vol_Z_Score": 0.4869763798909455,
+            "Vol_Z_Score": 0.4885723478135533,
             "Band_Width": 0.0502922320231982,
             "Reservas Internacionales": null
         },
@@ -14977,7 +14977,7 @@
             "Lower_Band": 17.03140779007215,
             "Log_Ret": -0.0024898135020076,
             "Volatility_30d": 9.111716369821185,
-            "Vol_Z_Score": 0.4885524374531085,
+            "Vol_Z_Score": 0.4901518037221732,
             "Band_Width": 0.0460013460047813,
             "Reservas Internacionales": null
         },
@@ -14993,7 +14993,7 @@
             "Lower_Band": 17.029932698788038,
             "Log_Ret": -0.0014478964001732,
             "Volatility_30d": 8.959769630686724,
-            "Vol_Z_Score": 0.4354140131511218,
+            "Vol_Z_Score": 0.4368988006254253,
             "Band_Width": 0.0425790953469926,
             "Reservas Internacionales": null
         },
@@ -15009,7 +15009,7 @@
             "Lower_Band": 17.03704449472983,
             "Log_Ret": 0.0005305323363268,
             "Volatility_30d": 8.962805121793544,
-            "Vol_Z_Score": 0.4364755773236596,
+            "Vol_Z_Score": 0.4379626537770785,
             "Band_Width": 0.0384220969697464,
             "Reservas Internacionales": null
         },
@@ -15025,7 +15025,7 @@
             "Lower_Band": 17.03522322175357,
             "Log_Ret": 0.0008128405742028,
             "Volatility_30d": 8.972483120851601,
-            "Vol_Z_Score": 0.4398601423578997,
+            "Vol_Z_Score": 0.4413545167202707,
             "Band_Width": 0.036108924856507,
             "Reservas Internacionales": null
         },
@@ -15041,7 +15041,7 @@
             "Lower_Band": 17.031355319460353,
             "Log_Ret": -0.0026705474640474,
             "Volatility_30d": 8.945770964954047,
-            "Vol_Z_Score": 0.4305184356375668,
+            "Vol_Z_Score": 0.4319926671087797,
             "Band_Width": 0.0338828235777504,
             "Reservas Internacionales": null
         },
@@ -15057,7 +15057,7 @@
             "Lower_Band": 17.028131192333174,
             "Log_Ret": 0.0002935984556608,
             "Volatility_30d": 8.94643232685247,
-            "Vol_Z_Score": 0.4307497254261847,
+            "Vol_Z_Score": 0.4322244556119449,
             "Band_Width": 0.0319208449387277,
             "Reservas Internacionales": null
         },
@@ -15073,7 +15073,7 @@
             "Lower_Band": 17.028108546633522,
             "Log_Ret": -0.0027854294103465,
             "Volatility_30d": 8.816389828637943,
-            "Vol_Z_Score": 0.3852715961370865,
+            "Vol_Z_Score": 0.3866482649047602,
             "Band_Width": 0.0292265763414166,
             "Reservas Internacionales": null
         },
@@ -15089,7 +15089,7 @@
             "Lower_Band": 17.031364114207882,
             "Log_Ret": 0.0052523823315257,
             "Volatility_30d": 9.033951854749247,
-            "Vol_Z_Score": 0.4613568304853664,
+            "Vol_Z_Score": 0.4628975567042208,
             "Band_Width": 0.0272861129481258,
             "Reservas Internacionales": null
         },
@@ -15105,7 +15105,7 @@
             "Lower_Band": 17.04066703631824,
             "Log_Ret": 0.0027958374207393,
             "Volatility_30d": 9.116863366492442,
-            "Vol_Z_Score": 0.4903524319416784,
+            "Vol_Z_Score": 0.491955679417267,
             "Band_Width": 0.024999738786986,
             "Reservas Internacionales": null
         },
@@ -15121,7 +15121,7 @@
             "Lower_Band": 17.02306001696079,
             "Log_Ret": -0.0092242907642359,
             "Volatility_30d": 9.375321822246804,
-            "Vol_Z_Score": 0.5807398608825394,
+            "Vol_Z_Score": 0.5825380046653791,
             "Band_Width": 0.0254830907506831,
             "Reservas Internacionales": null
         },
@@ -15137,7 +15137,7 @@
             "Lower_Band": 17.024520872927468,
             "Log_Ret": 0.0093883005972362,
             "Volatility_30d": 9.883821928288484,
-            "Vol_Z_Score": 0.758571215121321,
+            "Vol_Z_Score": 0.7607528046405946,
             "Band_Width": 0.0247646973630109,
             "Reservas Internacionales": null
         },
@@ -15153,7 +15153,7 @@
             "Lower_Band": 17.026438345490185,
             "Log_Ret": -0.0046842986148463,
             "Volatility_30d": 9.88070352834133,
-            "Vol_Z_Score": 0.7574806562815647,
+            "Vol_Z_Score": 0.7596598943024806,
             "Band_Width": 0.0246361898866692,
             "Reservas Internacionales": null
         },
@@ -15169,7 +15169,7 @@
             "Lower_Band": 17.02746571872307,
             "Log_Ret": -0.0012447384362713,
             "Volatility_30d": 9.876929806703286,
-            "Vol_Z_Score": 0.7561609200190936,
+            "Vol_Z_Score": 0.7583373123818565,
             "Band_Width": 0.0245607103211666,
             "Reservas Internacionales": null
         },
@@ -15185,7 +15185,7 @@
             "Lower_Band": 17.025808014525435,
             "Log_Ret": 0.0026408359038721,
             "Volatility_30d": 9.753501683504364,
-            "Vol_Z_Score": 0.7129959530135286,
+            "Vol_Z_Score": 0.7150792716737802,
             "Band_Width": 0.0246253808874448,
             "Reservas Internacionales": null
         },
@@ -15201,7 +15201,7 @@
             "Lower_Band": 17.043210579090264,
             "Log_Ret": 0.0066106750119956,
             "Volatility_30d": 9.98993749072606,
-            "Vol_Z_Score": 0.7956816777345522,
+            "Vol_Z_Score": 0.7979432860375045,
             "Band_Width": 0.0217462137449331,
             "Reservas Internacionales": null
         },
@@ -15217,7 +15217,7 @@
             "Lower_Band": 17.04877943832924,
             "Log_Ret": -0.0007931247369094,
             "Volatility_30d": 9.960892471789172,
-            "Vol_Z_Score": 0.7855241281292147,
+            "Vol_Z_Score": 0.7877638343941071,
             "Band_Width": 0.0206861130044683,
             "Reservas Internacionales": null
         },
@@ -15233,7 +15233,7 @@
             "Lower_Band": 16.98167923709137,
             "Log_Ret": 0.0210219907072102,
             "Volatility_30d": 11.756480077523127,
-            "Vol_Z_Score": 1.4134724250679525,
+            "Vol_Z_Score": 1.4170661338269088,
             "Band_Width": 0.0309478333254605,
             "Reservas Internacionales": null
         },
@@ -15249,7 +15249,7 @@
             "Lower_Band": 16.955014916855376,
             "Log_Ret": -0.0044130313978469,
             "Volatility_30d": 11.681707387616882,
-            "Vol_Z_Score": 1.387323111531695,
+            "Vol_Z_Score": 1.3908604362922892,
             "Band_Width": 0.0355695851817269,
             "Reservas Internacionales": null
         },
@@ -15265,7 +15265,7 @@
             "Lower_Band": 16.922091546471908,
             "Log_Ret": 0.0062070685726694,
             "Volatility_30d": 11.804712207506062,
-            "Vol_Z_Score": 1.4303400419883376,
+            "Vol_Z_Score": 1.4339701212502327,
             "Band_Width": 0.0405136054800767,
             "Reservas Internacionales": null
         },
@@ -15281,7 +15281,7 @@
             "Lower_Band": 16.83382235664072,
             "Log_Ret": 0.0162323419483635,
             "Volatility_30d": 12.508009758451031,
-            "Vol_Z_Score": 1.6762954595612716,
+            "Vol_Z_Score": 1.6804558758755097,
             "Band_Width": 0.0549048626406325,
             "Reservas Internacionales": null
         },
@@ -15297,7 +15297,7 @@
             "Lower_Band": 16.832894574095246,
             "Log_Ret": -0.0179002082037317,
             "Volatility_30d": 13.669600411475846,
-            "Vol_Z_Score": 2.0825239665845947,
+            "Vol_Z_Score": 2.087560305987328,
             "Band_Width": 0.0576172091934758,
             "Reservas Internacionales": null
         },
@@ -15313,7 +15313,7 @@
             "Lower_Band": 16.84563342514601,
             "Log_Ret": -0.0047255847853983,
             "Volatility_30d": 13.309566869142964,
-            "Vol_Z_Score": 1.9566139586146176,
+            "Vol_Z_Score": 1.9613788067725293,
             "Band_Width": 0.0584206097080347,
             "Reservas Internacionales": null
         },
@@ -15329,7 +15329,7 @@
             "Lower_Band": 16.850246924738983,
             "Log_Ret": 0.0087631634936759,
             "Volatility_30d": 13.496534464356172,
-            "Vol_Z_Score": 2.021999786976289,
+            "Vol_Z_Score": 2.02690562217901,
             "Band_Width": 0.0609706468312256,
             "Reservas Internacionales": null
         },
@@ -15345,7 +15345,7 @@
             "Lower_Band": 16.851348828879125,
             "Log_Ret": 0.0050422572424951,
             "Volatility_30d": 13.511724076983976,
-            "Vol_Z_Score": 2.027311859386641,
+            "Vol_Z_Score": 2.032229148652264,
             "Band_Width": 0.0643370344749041,
             "Reservas Internacionales": null
         },
@@ -15361,7 +15361,7 @@
             "Lower_Band": 16.862506253787718,
             "Log_Ret": 0.0029154355905403,
             "Volatility_30d": 12.972986171955911,
-            "Vol_Z_Score": 1.8389058195596764,
+            "Vol_Z_Score": 1.8434168616086632,
             "Band_Width": 0.0670811234534582,
             "Reservas Internacionales": null
         },
@@ -15377,7 +15377,7 @@
             "Lower_Band": 16.895076529764555,
             "Log_Ret": -0.0114013272630133,
             "Volatility_30d": 13.338946161608211,
-            "Vol_Z_Score": 1.966888409501839,
+            "Vol_Z_Score": 1.971675411764148,
             "Band_Width": 0.0662151834469861,
             "Reservas Internacionales": null
         },
@@ -15393,7 +15393,7 @@
             "Lower_Band": 16.941851751922123,
             "Log_Ret": -0.0017329733112704,
             "Volatility_30d": 13.1153080057218,
-            "Vol_Z_Score": 1.888678246616476,
+            "Vol_Z_Score": 1.8932966095877413,
             "Band_Width": 0.0638230956253187,
             "Reservas Internacionales": null
         },
@@ -15409,7 +15409,7 @@
             "Lower_Band": 16.971289731527293,
             "Log_Ret": 0.0107009788007022,
             "Volatility_30d": 13.376382574523616,
-            "Vol_Z_Score": 1.979980575909456,
+            "Vol_Z_Score": 1.9847958079257992,
             "Band_Width": 0.0639676718337954,
             "Reservas Internacionales": null
         },
@@ -15425,7 +15425,7 @@
             "Lower_Band": 17.003853741458173,
             "Log_Ret": -0.0058907605478306,
             "Volatility_30d": 13.219119465134888,
-            "Vol_Z_Score": 1.924982924223408,
+            "Vol_Z_Score": 1.929679568518574,
             "Band_Width": 0.0629121676924027,
             "Reservas Internacionales": null
         },
@@ -15441,7 +15441,7 @@
             "Lower_Band": 17.06499485944927,
             "Log_Ret": 0.011239974315773,
             "Volatility_30d": 12.789102751444178,
-            "Vol_Z_Score": 1.7745985808725304,
+            "Vol_Z_Score": 1.7789709615667637,
             "Band_Width": 0.0605884248022752,
             "Reservas Internacionales": null
         },
@@ -15457,7 +15457,7 @@
             "Lower_Band": 17.110080116560503,
             "Log_Ret": -0.0086753811686861,
             "Volatility_30d": 13.070989290280574,
-            "Vol_Z_Score": 1.8731792190029195,
+            "Vol_Z_Score": 1.8777641624679184,
             "Band_Width": 0.0583557587594429,
             "Reservas Internacionales": null
         },
@@ -15473,7 +15473,7 @@
             "Lower_Band": 17.18087442362944,
             "Log_Ret": -0.0030721482155797,
             "Volatility_30d": 13.106878682701314,
-            "Vol_Z_Score": 1.8857303653668185,
+            "Vol_Z_Score": 1.8903423720208776,
             "Band_Width": 0.0533605811020935,
             "Reservas Internacionales": null
         },
@@ -15489,7 +15489,7 @@
             "Lower_Band": 17.27095485380122,
             "Log_Ret": 0.0027117133985663,
             "Volatility_30d": 13.114737615840037,
-            "Vol_Z_Score": 1.8884787713284417,
+            "Vol_Z_Score": 1.893096704184618,
             "Band_Width": 0.0465832004338623,
             "Reservas Internacionales": null
         },
@@ -15505,7 +15505,7 @@
             "Lower_Band": 17.36190825812884,
             "Log_Ret": 0.0076579389577632,
             "Volatility_30d": 13.25043779934208,
-            "Vol_Z_Score": 1.9359354918205347,
+            "Vol_Z_Score": 1.9406557523973524,
             "Band_Width": 0.0402359560833269,
             "Reservas Internacionales": null
         },
@@ -15521,7 +15521,7 @@
             "Lower_Band": 17.40759465986571,
             "Log_Ret": 0.0127200181255312,
             "Volatility_30d": 13.591851403241357,
-            "Vol_Z_Score": 2.0553337826283142,
+            "Vol_Z_Score": 2.06031149367411,
             "Band_Width": 0.0396496364457753,
             "Reservas Internacionales": null
         },
@@ -15537,7 +15537,7 @@
             "Lower_Band": 17.480350191674294,
             "Log_Ret": -0.0001995516088294,
             "Volatility_30d": 13.59752470815409,
-            "Vol_Z_Score": 2.05731783628662,
+            "Vol_Z_Score": 2.062299825413294,
             "Band_Width": 0.0360804959182102,
             "Reservas Internacionales": null
         },
@@ -15553,7 +15553,7 @@
             "Lower_Band": 17.49514038761636,
             "Log_Ret": -0.0141585119829142,
             "Volatility_30d": 14.314241786150207,
-            "Vol_Z_Score": 2.3079662964772365,
+            "Vol_Z_Score": 2.3134887419470296,
             "Band_Width": 0.0355979691647285,
             "Reservas Internacionales": null
         },
@@ -15569,7 +15569,7 @@
             "Lower_Band": 17.52389701908035,
             "Log_Ret": -0.0034379311941809,
             "Volatility_30d": 14.335720216281963,
-            "Vol_Z_Score": 2.315477678032268,
+            "Vol_Z_Score": 2.3210163197867053,
             "Band_Width": 0.033639405647843,
             "Reservas Internacionales": null
         },
@@ -15585,7 +15585,7 @@
             "Lower_Band": 17.53649304728467,
             "Log_Ret": 0.0013411745365355,
             "Volatility_30d": 14.32757998822414,
-            "Vol_Z_Score": 2.3126308983322525,
+            "Vol_Z_Score": 2.3181634017679262,
             "Band_Width": 0.0330234442339316,
             "Reservas Internacionales": null
         },
@@ -15601,7 +15601,7 @@
             "Lower_Band": 17.53968974955294,
             "Log_Ret": 0.0018629576629187,
             "Volatility_30d": 13.98822972030528,
-            "Vol_Z_Score": 2.193954192096997,
+            "Vol_Z_Score": 2.1992308009677632,
             "Band_Width": 0.0320473790853322,
             "Reservas Internacionales": null
         },
@@ -15617,7 +15617,7 @@
             "Lower_Band": 17.551883726055088,
             "Log_Ret": -0.0063904360831473,
             "Volatility_30d": 13.961640924365442,
-            "Vol_Z_Score": 2.1846556265050125,
+            "Vol_Z_Score": 2.189912185506921,
             "Band_Width": 0.0311950217531568,
             "Reservas Internacionales": null
         },
@@ -15633,7 +15633,7 @@
             "Lower_Band": 17.53270439990243,
             "Log_Ret": -0.0143084676021623,
             "Volatility_30d": 14.565606766482222,
-            "Vol_Z_Score": 2.395873013367838,
+            "Vol_Z_Score": 2.401585006153063,
             "Band_Width": 0.0329289035087705,
             "Reservas Internacionales": null
         },
@@ -15649,7 +15649,7 @@
             "Lower_Band": 17.473399442777243,
             "Log_Ret": -0.0038729148209587,
             "Volatility_30d": 14.61505658395558,
-            "Vol_Z_Score": 2.413166476837493,
+            "Vol_Z_Score": 2.4189157583498044,
             "Band_Width": 0.0379414999734005,
             "Reservas Internacionales": null
         },
@@ -15665,7 +15665,7 @@
             "Lower_Band": 17.397525507315862,
             "Log_Ret": -0.0043196109775154,
             "Volatility_30d": 14.667929933740025,
-            "Vol_Z_Score": 2.431657209255428,
+            "Vol_Z_Score": 2.4374463610849824,
             "Band_Width": 0.043918322861763,
             "Reservas Internacionales": null
         },
@@ -15681,7 +15681,7 @@
             "Lower_Band": 17.34667224765216,
             "Log_Ret": 0.0034078522241531,
             "Volatility_30d": 14.577750030076963,
-            "Vol_Z_Score": 2.400119724399505,
+            "Vol_Z_Score": 2.405840874080857,
             "Band_Width": 0.0471336054616522,
             "Reservas Internacionales": null
         },
@@ -15697,7 +15697,7 @@
             "Lower_Band": 17.27373768599339,
             "Log_Ret": -0.008787538172948,
             "Volatility_30d": 14.808233919643085,
-            "Vol_Z_Score": 2.4807239597276403,
+            "Vol_Z_Score": 2.4866189108767225,
             "Band_Width": 0.0531220329271875,
             "Reservas Internacionales": null
         },
@@ -15713,7 +15713,7 @@
             "Lower_Band": 17.206024425976413,
             "Log_Ret": -0.0013900250201194,
             "Volatility_30d": 13.394227184068455,
-            "Vol_Z_Score": 1.986221147039172,
+            "Vol_Z_Score": 1.9910498351774844,
             "Band_Width": 0.0585712580379944,
             "Reservas Internacionales": null
         },
@@ -15729,7 +15729,7 @@
             "Lower_Band": 17.136969450844024,
             "Log_Ret": -0.0006028746865656,
             "Volatility_30d": 13.350262529831522,
-            "Vol_Z_Score": 1.970845940802828,
+            "Vol_Z_Score": 1.9756414764225452,
             "Band_Width": 0.0630886078681355,
             "Reservas Internacionales": null
         },
@@ -15745,7 +15745,7 @@
             "Lower_Band": 17.078690004335243,
             "Log_Ret": 0.0003362038612608,
             "Volatility_30d": 13.195044755202886,
-            "Vol_Z_Score": 1.916563578348654,
+            "Vol_Z_Score": 1.9212420685770475,
             "Band_Width": 0.0670064106731218,
             "Reservas Internacionales": null
         },
@@ -15761,7 +15761,7 @@
             "Lower_Band": 17.050151807768156,
             "Log_Ret": 0.0070996242896835,
             "Volatility_30d": 12.408836790265768,
-            "Vol_Z_Score": 1.6416129432220918,
+            "Vol_Z_Score": 1.6456985759691911,
             "Band_Width": 0.0671392468805334,
             "Reservas Internacionales": null
         },
@@ -15777,7 +15777,7 @@
             "Lower_Band": 17.012503463805132,
             "Log_Ret": -0.0036041687533427,
             "Volatility_30d": 11.383191558300515,
-            "Vol_Z_Score": 1.282926920541145,
+            "Vol_Z_Score": 1.2862391428471882,
             "Band_Width": 0.0688137374438723,
             "Reservas Internacionales": null
         },
@@ -15793,7 +15793,7 @@
             "Lower_Band": 16.980282391316294,
             "Log_Ret": 0.0006064062793831,
             "Volatility_30d": 11.323768943670904,
-            "Vol_Z_Score": 1.2621457960016598,
+            "Vol_Z_Score": 1.2654132093726471,
             "Band_Width": 0.070232552388833,
             "Reservas Internacionales": null
         },
@@ -15809,7 +15809,7 @@
             "Lower_Band": 16.954248563873847,
             "Log_Ret": 0.0011771734078973,
             "Volatility_30d": 10.992267052596626,
-            "Vol_Z_Score": 1.1462138040078889,
+            "Vol_Z_Score": 1.1492312410558787,
             "Band_Width": 0.070798455495201,
             "Reservas Internacionales": null
         },
@@ -15825,7 +15825,7 @@
             "Lower_Band": 16.946474186416644,
             "Log_Ret": 0.0042583033058251,
             "Volatility_30d": 10.958558547443062,
-            "Vol_Z_Score": 1.1344253519513383,
+            "Vol_Z_Score": 1.137417370356482,
             "Band_Width": 0.068940823373134,
             "Reservas Internacionales": null
         },
@@ -15841,7 +15841,7 @@
             "Lower_Band": 16.975807591147195,
             "Log_Ret": -7.119392098931138e-05,
             "Volatility_30d": 10.904772853957898,
-            "Vol_Z_Score": 1.1156155570319353,
+            "Vol_Z_Score": 1.1185670171469173,
             "Band_Width": 0.0615684307097082,
             "Reservas Internacionales": null
         },
@@ -15857,7 +15857,7 @@
             "Lower_Band": 17.02246852027614,
             "Log_Ret": -0.002095918355099,
             "Volatility_30d": 10.449581176117947,
-            "Vol_Z_Score": 0.9564270897204524,
+            "Vol_Z_Score": 0.9590353024967336,
             "Band_Width": 0.0519995367064279,
             "Reservas Internacionales": null
         },
@@ -15873,7 +15873,7 @@
             "Lower_Band": 17.03877983510012,
             "Log_Ret": 0.0004371994940446,
             "Volatility_30d": 10.44775733316709,
-            "Vol_Z_Score": 0.955789260036611,
+            "Vol_Z_Score": 0.9583960975038311,
             "Band_Width": 0.0473398176002284,
             "Reservas Internacionales": null
         },
@@ -15889,7 +15889,7 @@
             "Lower_Band": 17.060392467959907,
             "Log_Ret": 0.0080950415925156,
             "Volatility_30d": 10.229779318769284,
-            "Vol_Z_Score": 0.8795585473305946,
+            "Vol_Z_Score": 0.8820010136614785,
             "Band_Width": 0.0431962380169842,
             "Reservas Internacionales": null
         },
@@ -15905,7 +15905,7 @@
             "Lower_Band": 17.093671743867215,
             "Log_Ret": -0.0037729629410951,
             "Volatility_30d": 10.15267998104943,
-            "Vol_Z_Score": 0.8525955644821478,
+            "Vol_Z_Score": 0.8549798923544959,
             "Band_Width": 0.0371997723686466,
             "Reservas Internacionales": null
         },
@@ -15921,7 +15921,7 @@
             "Lower_Band": 17.154979291724885,
             "Log_Ret": -0.0007620324416669,
             "Volatility_30d": 9.520123969095168,
-            "Vol_Z_Score": 0.6313796966756448,
+            "Vol_Z_Score": 0.6332870317156263,
             "Band_Width": 0.0277039858191214,
             "Reservas Internacionales": null
         },
@@ -15937,7 +15937,7 @@
             "Lower_Band": 17.20542400148716,
             "Log_Ret": 0.0041925566891121,
             "Volatility_30d": 9.33882462385472,
-            "Vol_Z_Score": 0.5679761541716233,
+            "Vol_Z_Score": 0.5697467764358851,
             "Band_Width": 0.0205013459607985,
             "Reservas Internacionales": null
         },
@@ -15953,7 +15953,7 @@
             "Lower_Band": 17.206616151767864,
             "Log_Ret": -0.010454026746184,
             "Volatility_30d": 9.75158031748405,
-            "Vol_Z_Score": 0.7123240178117043,
+            "Vol_Z_Score": 0.7144058876234701,
             "Band_Width": 0.0193592663361354,
             "Reservas Internacionales": null
         },
@@ -15969,7 +15969,7 @@
             "Lower_Band": 17.192296013078078,
             "Log_Ret": -0.0048393310747798,
             "Volatility_30d": 9.764613593544274,
-            "Vol_Z_Score": 0.7168819817224679,
+            "Vol_Z_Score": 0.7189736795639189,
             "Band_Width": 0.0199113203223071,
             "Reservas Internacionales": null
         },
@@ -15985,7 +15985,7 @@
             "Lower_Band": 17.18327412526316,
             "Log_Ret": 0.0013611019635067,
             "Volatility_30d": 9.44500194187047,
-            "Vol_Z_Score": 0.605108213787427,
+            "Vol_Z_Score": 0.6069589014035254,
             "Band_Width": 0.0204163186411495,
             "Reservas Internacionales": null
         },
@@ -16001,7 +16001,7 @@
             "Lower_Band": 17.16431973536001,
             "Log_Ret": -0.003647247536357,
             "Volatility_30d": 8.491087322841508,
-            "Vol_Z_Score": 0.2715076372790181,
+            "Vol_Z_Score": 0.2726390045070916,
             "Band_Width": 0.0213695993547861,
             "Reservas Internacionales": null
         },
@@ -16017,7 +16017,7 @@
             "Lower_Band": 17.14924968945826,
             "Log_Ret": -0.0013368993359673,
             "Volatility_30d": 8.479416161129006,
-            "Vol_Z_Score": 0.2674260285080181,
+            "Vol_Z_Score": 0.268548594838816,
             "Band_Width": 0.0226144554695852,
             "Reservas Internacionales": null
         },
@@ -16033,7 +16033,7 @@
             "Lower_Band": 17.145162223408786,
             "Log_Ret": 0.0021440716056246,
             "Volatility_30d": 7.69284723739754,
-            "Vol_Z_Score": -0.007650840203278,
+            "Vol_Z_Score": -0.0071214035427254,
             "Band_Width": 0.0229404354551957,
             "Reservas Internacionales": null
         },
@@ -16049,7 +16049,7 @@
             "Lower_Band": 17.130618736236777,
             "Log_Ret": -0.003552753036297,
             "Volatility_30d": 7.695761862876969,
-            "Vol_Z_Score": -0.0066315448482773,
+            "Vol_Z_Score": -0.0060999103500053,
             "Band_Width": 0.0241834553765734,
             "Reservas Internacionales": null
         },
@@ -16065,7 +16065,7 @@
             "Lower_Band": 17.127776128684342,
             "Log_Ret": 0.0036647841855018,
             "Volatility_30d": 7.792593643891335,
-            "Vol_Z_Score": 0.0272322175119342,
+            "Vol_Z_Score": 0.0278368701534477,
             "Band_Width": 0.0244032614484334,
             "Reservas Internacionales": null
         },
@@ -16081,7 +16081,7 @@
             "Lower_Band": 17.126816980670206,
             "Log_Ret": 0.006448489502244,
             "Volatility_30d": 8.056648732603554,
-            "Vol_Z_Score": 0.1195768865914851,
+            "Vol_Z_Score": 0.1203806558049469,
             "Band_Width": 0.0243407078047684,
             "Reservas Internacionales": null
         },
@@ -16097,7 +16097,7 @@
             "Lower_Band": 17.123273454243396,
             "Log_Ret": -0.0040012191363347,
             "Volatility_30d": 7.947253946250672,
-            "Vol_Z_Score": 0.0813196221924084,
+            "Vol_Z_Score": 0.0820408998509684,
             "Band_Width": 0.0245378310513632,
             "Reservas Internacionales": null
         },
@@ -16113,7 +16113,7 @@
             "Lower_Band": 17.125486440424552,
             "Log_Ret": 0.0075067781296696,
             "Volatility_30d": 7.2421853397104465,
-            "Vol_Z_Score": -0.1652551644056139,
+            "Vol_Z_Score": -0.1650655593029866,
             "Band_Width": 0.0247525273921431,
             "Reservas Internacionales": null
         },
@@ -16129,7 +16129,7 @@
             "Lower_Band": 17.123113079709384,
             "Log_Ret": -0.0056471685860512,
             "Volatility_30d": 7.33773652527669,
-            "Vol_Z_Score": -0.1318392486044607,
+            "Vol_Z_Score": -0.1315775910198747,
             "Band_Width": 0.0248218041362689,
             "Reservas Internacionales": null
         },
@@ -16145,7 +16145,7 @@
             "Lower_Band": 17.11966062825134,
             "Log_Ret": -0.0004103259315426,
             "Volatility_30d": 7.237119134066135,
-            "Vol_Z_Score": -0.1670269048632378,
+            "Vol_Z_Score": -0.1668411200448762,
             "Band_Width": 0.024553535125444,
             "Reservas Internacionales": null
         },
@@ -16161,7 +16161,7 @@
             "Lower_Band": 17.11316669950238,
             "Log_Ret": -0.0022108499789472,
             "Volatility_30d": 7.180668794233099,
-            "Vol_Z_Score": -0.1867685730762341,
+            "Vol_Z_Score": -0.1866253558834679,
             "Band_Width": 0.0244254491313838,
             "Reservas Internacionales": null
         },
@@ -16177,7 +16177,7 @@
             "Lower_Band": 17.10989995252212,
             "Log_Ret": 0.0018638928971232,
             "Volatility_30d": 6.7404288515742445,
-            "Vol_Z_Score": -0.3407281578685538,
+            "Vol_Z_Score": -0.3409169133283294,
             "Band_Width": 0.0243161926288953,
             "Reservas Internacionales": null
         },
@@ -16193,7 +16193,7 @@
             "Lower_Band": 17.107437539905252,
             "Log_Ret": 0.0002544396113664,
             "Volatility_30d": 6.727237456939084,
-            "Vol_Z_Score": -0.3453414186022233,
+            "Vol_Z_Score": -0.3455401213244879,
             "Band_Width": 0.0240957334792637,
             "Reservas Internacionales": null
         },
@@ -16209,7 +16209,7 @@
             "Lower_Band": 17.12184056222285,
             "Log_Ret": 0.0050806201860084,
             "Volatility_30d": 6.877017453700892,
-            "Vol_Z_Score": -0.2929607418913131,
+            "Vol_Z_Score": -0.2930464996987606,
             "Band_Width": 0.0216227157404303,
             "Reservas Internacionales": null
         },
@@ -16225,7 +16225,7 @@
             "Lower_Band": 17.1282420374741,
             "Log_Ret": -0.0043755420955294,
             "Volatility_30d": 7.007464945661231,
-            "Vol_Z_Score": -0.2473409792270786,
+            "Vol_Z_Score": -0.2473283702219602,
             "Band_Width": 0.0200159643586893,
             "Reservas Internacionales": null
         },
@@ -16241,7 +16241,7 @@
             "Lower_Band": 17.13561389075638,
             "Log_Ret": 0.0019740195750242,
             "Volatility_30d": 6.7147829027120505,
-            "Vol_Z_Score": -0.3496969933962472,
+            "Vol_Z_Score": -0.3499050877502161,
             "Band_Width": 0.0185677001546458,
             "Reservas Internacionales": null
         },
@@ -16257,7 +16257,7 @@
             "Lower_Band": 17.162808792374054,
             "Log_Ret": 0.0006022954697441,
             "Volatility_30d": 6.631864389667552,
-            "Vol_Z_Score": -0.378695043329713,
+            "Vol_Z_Score": -0.3789656642199021,
             "Band_Width": 0.0144648263924022,
             "Reservas Internacionales": null
         },
@@ -16273,7 +16273,7 @@
             "Lower_Band": 17.162920781641304,
             "Log_Ret": -0.003157119555237,
             "Volatility_30d": 6.6954505875663095,
-            "Vol_Z_Score": -0.356457841117007,
+            "Vol_Z_Score": -0.3566805134302133,
             "Band_Width": 0.0142253003358588,
             "Reservas Internacionales": null
         },
@@ -16289,7 +16289,7 @@
             "Lower_Band": 17.166229993132266,
             "Log_Ret": 0.0016202073522345,
             "Volatility_30d": 6.703689526201159,
-            "Vol_Z_Score": -0.3535765406069037,
+            "Vol_Z_Score": -0.3537930001664551,
             "Band_Width": 0.0142576985445864,
             "Reservas Internacionales": null
         },
@@ -16305,7 +16305,7 @@
             "Lower_Band": 17.166244073681682,
             "Log_Ret": -0.0028088819205144,
             "Volatility_30d": 6.623493141203859,
-            "Vol_Z_Score": -0.3816226148941637,
+            "Vol_Z_Score": -0.3818995483091563,
             "Band_Width": 0.0142572198314017,
             "Reservas Internacionales": null
         },
@@ -16321,7 +16321,7 @@
             "Lower_Band": 17.16162227907758,
             "Log_Ret": 0.0106504941232268,
             "Volatility_30d": 7.340622966247723,
-            "Vol_Z_Score": -0.1308298098635236,
+            "Vol_Z_Score": -0.1305659756943692,
             "Band_Width": 0.0162151988939503,
             "Reservas Internacionales": null
         },
@@ -16337,7 +16337,7 @@
             "Lower_Band": 17.167039145717194,
             "Log_Ret": 0.0002862355399473,
             "Volatility_30d": 7.311274518602707,
-            "Vol_Z_Score": -0.1410934737792426,
+            "Vol_Z_Score": -0.1408517704552675,
             "Band_Width": 0.0171711081884894,
             "Reservas Internacionales": null
         },
@@ -16353,7 +16353,7 @@
             "Lower_Band": 17.17208466263982,
             "Log_Ret": -0.0007834382523901,
             "Volatility_30d": 7.316006887196286,
-            "Vol_Z_Score": -0.1394384819596651,
+            "Vol_Z_Score": -0.139193210088626,
             "Band_Width": 0.0178790944307071,
             "Reservas Internacionales": null
         },
@@ -16369,7 +16369,7 @@
             "Lower_Band": 17.19888559048996,
             "Log_Ret": -0.0018878180018544,
             "Volatility_30d": 6.934057147442106,
-            "Vol_Z_Score": -0.2730129663395537,
+            "Vol_Z_Score": -0.2730557121060739,
             "Band_Width": 0.0162378501185509,
             "Reservas Internacionales": null
         },
@@ -16385,7 +16385,7 @@
             "Lower_Band": 17.20217351261875,
             "Log_Ret": -0.0100665110058638,
             "Volatility_30d": 7.43749878278028,
-            "Vol_Z_Score": -0.0969506475147152,
+            "Vol_Z_Score": -0.0966137619963642,
             "Band_Width": 0.0159511810889287,
             "Reservas Internacionales": null
         },
@@ -16401,7 +16401,7 @@
             "Lower_Band": 17.172984586634552,
             "Log_Ret": -0.0046674905584583,
             "Volatility_30d": 7.539014889048924,
-            "Vol_Z_Score": -0.0614486949284531,
+            "Vol_Z_Score": -0.0610352589479378,
             "Band_Width": 0.018314360251857,
             "Reservas Internacionales": null
         },
@@ -16417,7 +16417,7 @@
             "Lower_Band": 17.163173476342656,
             "Log_Ret": 0.0026993280058018,
             "Volatility_30d": 7.469666178454546,
-            "Vol_Z_Score": -0.0857011483167336,
+            "Vol_Z_Score": -0.0853400062631785,
             "Band_Width": 0.0191039251361547,
             "Reservas Internacionales": null
         },
@@ -16433,7 +16433,7 @@
             "Lower_Band": 17.148649036558695,
             "Log_Ret": -0.0003596448786683,
             "Volatility_30d": 6.8592880753314285,
-            "Vol_Z_Score": -0.2991610146696144,
+            "Vol_Z_Score": -0.2992601417064182,
             "Band_Width": 0.0196586646308368,
             "Reservas Internacionales": null
         },
@@ -16449,7 +16449,7 @@
             "Lower_Band": 17.148140909487335,
             "Log_Ret": 0.0052857634869859,
             "Volatility_30d": 6.898636914194702,
-            "Vol_Z_Score": -0.2854000395594028,
+            "Vol_Z_Score": -0.285469494735146,
             "Band_Width": 0.0196767560638629,
             "Reservas Internacionales": null
         },
@@ -16465,7 +16465,7 @@
             "Lower_Band": 17.15055173733292,
             "Log_Ret": 0.0032920804822054,
             "Volatility_30d": 6.952185002787327,
-            "Vol_Z_Score": -0.2666733392142426,
+            "Vol_Z_Score": -0.2667024152710415,
             "Band_Width": 0.0197244516318596,
             "Reservas Internacionales": null
         },
@@ -16481,7 +16481,7 @@
             "Lower_Band": 17.157136408177077,
             "Log_Ret": -0.0004345433798562,
             "Volatility_30d": 6.861518475318655,
-            "Vol_Z_Score": -0.2983810049006683,
+            "Vol_Z_Score": -0.2984784500550979,
             "Band_Width": 0.0194655398594847,
             "Reservas Internacionales": null
         },
@@ -16497,7 +16497,7 @@
             "Lower_Band": 17.16072555427177,
             "Log_Ret": 0.0009621613114598,
             "Volatility_30d": 6.847485811278921,
-            "Vol_Z_Score": -0.3032884722150589,
+            "Vol_Z_Score": -0.3033964990097534,
             "Band_Width": 0.0194638851599842,
             "Reservas Internacionales": null
         },
@@ -16513,7 +16513,7 @@
             "Lower_Band": 17.14706706595908,
             "Log_Ret": 0.0108657807248567,
             "Volatility_30d": 7.484908572795734,
-            "Vol_Z_Score": -0.0803706172208112,
+            "Vol_Z_Score": -0.0799979813031375,
             "Band_Width": 0.0225094156933562,
             "Reservas Internacionales": null
         },
@@ -16529,7 +16529,7 @@
             "Lower_Band": 17.122859949113334,
             "Log_Ret": 0.0038153199415494,
             "Volatility_30d": 7.432145074724629,
-            "Vol_Z_Score": -0.0988229325790126,
+            "Vol_Z_Score": -0.0984900841424708,
             "Band_Width": 0.0266466705487436,
             "Reservas Internacionales": null
         },
@@ -16545,7 +16545,7 @@
             "Lower_Band": 17.123939682651155,
             "Log_Ret": -0.0063080086456278,
             "Volatility_30d": 7.664529980663751,
-            "Vol_Z_Score": -0.0175538786755733,
+            "Vol_Z_Score": -0.017045795267917,
             "Band_Width": 0.027667845995111,
             "Reservas Internacionales": null
         },
@@ -16561,7 +16561,7 @@
             "Lower_Band": 17.12428808693207,
             "Log_Ret": -0.0002855455936626,
             "Volatility_30d": 7.45888694646614,
-            "Vol_Z_Score": -0.0894708337098674,
+            "Vol_Z_Score": -0.089117819974279,
             "Band_Width": 0.0285496222491629,
             "Reservas Internacionales": null
         },
@@ -16577,7 +16577,7 @@
             "Lower_Band": 17.126506570932744,
             "Log_Ret": -0.0018812339673032,
             "Volatility_30d": 7.377222994812602,
-            "Vol_Z_Score": -0.1180301416480425,
+            "Vol_Z_Score": -0.1177387084189474,
             "Band_Width": 0.028969583797449,
             "Reservas Internacionales": null
         },
@@ -16593,7 +16593,7 @@
             "Lower_Band": 17.134215104697695,
             "Log_Ret": 0.0011955262693544,
             "Volatility_30d": 7.067887267968227,
-            "Vol_Z_Score": -0.2262102394800458,
+            "Vol_Z_Score": -0.2261520676882166,
             "Band_Width": 0.0291861733371001,
             "Reservas Internacionales": null
         },
@@ -16609,7 +16609,7 @@
             "Lower_Band": 17.136936789419195,
             "Log_Ret": 0.0035066438913181,
             "Volatility_30d": 6.909112108068414,
-            "Vol_Z_Score": -0.2817366815967531,
+            "Vol_Z_Score": -0.2817982377211854,
             "Band_Width": 0.0301648792489438,
             "Reservas Internacionales": null
         },
@@ -16625,7 +16625,7 @@
             "Lower_Band": 17.151257233878248,
             "Log_Ret": -0.0044561402300107,
             "Volatility_30d": 7.052296599901618,
-            "Vol_Z_Score": -0.2316625679708979,
+            "Vol_Z_Score": -0.2316161526666824,
             "Band_Width": 0.0296432877611532,
             "Reservas Internacionales": null
         },
@@ -16641,7 +16641,7 @@
             "Lower_Band": 17.151272215477853,
             "Log_Ret": 2.182759387747951e-05,
             "Volatility_30d": 7.011625485894305,
-            "Vol_Z_Score": -0.2458859657566353,
+            "Vol_Z_Score": -0.2458702194042584,
             "Band_Width": 0.0297206801870838,
             "Reservas Internacionales": null
         },
@@ -16657,7 +16657,7 @@
             "Lower_Band": 17.14812683969271,
             "Log_Ret": -0.0054725499947814,
             "Volatility_30d": 7.199931292903687,
-            "Vol_Z_Score": -0.1800321413942852,
+            "Vol_Z_Score": -0.179874398888937,
             "Band_Width": 0.0295930916360095,
             "Reservas Internacionales": null
         },
@@ -16673,7 +16673,7 @@
             "Lower_Band": 17.1469916158275,
             "Log_Ret": 0.0081878938040014,
             "Volatility_30d": 7.565661290274199,
-            "Vol_Z_Score": -0.0521299837636374,
+            "Vol_Z_Score": -0.0516964544757271,
             "Band_Width": 0.0301206692536759,
             "Reservas Internacionales": null
         },
@@ -16689,8 +16689,24 @@
             "Lower_Band": 17.144870763849283,
             "Log_Ret": 0.0024963026091439,
             "Volatility_30d": 7.4642144842462095,
-            "Vol_Z_Score": -0.0876077008472945,
+            "Vol_Z_Score": -0.0872506697641713,
             "Band_Width": 0.031194964235057,
+            "Reservas Internacionales": null
+        },
+        {
+            "Date": "2026-07-10",
+            "Open": 17.540000915527344,
+            "High": 17.54290008544922,
+            "Low": 17.468700408935547,
+            "Close": 17.53820037841797,
+            "SMA_20": 17.43110418319702,
+            "STD_20": 0.1322305178734866,
+            "Upper_Band": 17.695565218943994,
+            "Lower_Band": 17.16664314745005,
+            "Log_Ret": -0.0016977298142251,
+            "Volatility_30d": 7.356450699976355,
+            "Vol_Z_Score": -0.1250188059553764,
+            "Band_Width": 0.0303435781196125,
             "Reservas Internacionales": null
         }
     ],
@@ -22532,11 +22548,11 @@
         {
             "ticker": "AAPL",
             "name": "Apple",
-            "price": 316.9,
-            "change": 0.68,
-            "change_pct": 0.21,
-            "rsi": 63.0,
-            "sma50": 297.76,
+            "price": 315.32,
+            "change": -0.9,
+            "change_pct": -0.28,
+            "rsi": 61.9,
+            "sma50": 297.73,
             "sma200": 272.1,
             "signal": "COMPRAR",
             "date": "2026-07-10",
@@ -22570,17 +22586,17 @@
                 310.66,
                 313.39,
                 316.22,
-                316.9
+                315.32
             ]
         },
         {
             "ticker": "MSFT",
             "name": "Microsoft",
-            "price": 384.9,
-            "change": 0.54,
-            "change_pct": 0.14,
-            "rsi": 52.8,
-            "sma50": 403.32,
+            "price": 385.1,
+            "change": 0.74,
+            "change_pct": 0.19,
+            "rsi": 52.9,
+            "sma50": 403.33,
             "sma200": 440.71,
             "signal": "VENDER",
             "date": "2026-07-10",
@@ -22614,17 +22630,17 @@
                 388.84,
                 383.34,
                 384.36,
-                384.9
+                385.1
             ]
         },
         {
             "ticker": "GOOGL",
             "name": "Alphabet",
-            "price": 356.71,
-            "change": -2.18,
-            "change_pct": -0.61,
-            "rsi": 42.3,
-            "sma50": 372.61,
+            "price": 357.18,
+            "change": -1.71,
+            "change_pct": -0.48,
+            "rsi": 42.5,
+            "sma50": 372.62,
             "sma200": 318.58,
             "signal": "COMPRAR",
             "date": "2026-07-10",
@@ -22658,16 +22674,16 @@
                 367.03,
                 361.92,
                 358.89,
-                356.71
+                357.18
             ]
         },
         {
             "ticker": "AMZN",
             "name": "Amazon",
-            "price": 245.2,
-            "change": -1.84,
-            "change_pct": -0.74,
-            "rsi": 50.8,
+            "price": 245.34,
+            "change": -1.7,
+            "change_pct": -0.69,
+            "rsi": 50.9,
             "sma50": 254.03,
             "sma200": 233.33,
             "signal": "COMPRAR",
@@ -22702,18 +22718,18 @@
                 245.98,
                 243.62,
                 247.04,
-                245.2
+                245.34
             ]
         },
         {
             "ticker": "NVDA",
             "name": "Nvidia",
-            "price": 209.79,
-            "change": 7.01,
-            "change_pct": 3.46,
-            "rsi": 49.1,
-            "sma50": 209.05,
-            "sma200": 191.46,
+            "price": 210.96,
+            "change": 8.18,
+            "change_pct": 4.03,
+            "rsi": 50.3,
+            "sma50": 209.07,
+            "sma200": 191.47,
             "signal": "COMPRAR",
             "date": "2026-07-10",
             "price_history": [
@@ -22746,18 +22762,18 @@
                 196.93,
                 204.12,
                 202.78,
-                209.79
+                210.96
             ]
         },
         {
             "ticker": "META",
             "name": "Meta",
-            "price": 664.4,
-            "change": 32.92,
-            "change_pct": 5.21,
-            "rsi": 68.1,
-            "sma50": 599.99,
-            "sma200": 641.65,
+            "price": 669.21,
+            "change": 37.73,
+            "change_pct": 5.97,
+            "rsi": 68.7,
+            "sma50": 600.08,
+            "sma200": 641.67,
             "signal": "VENDER",
             "date": "2026-07-10",
             "price_history": [
@@ -22790,18 +22806,18 @@
                 615.58,
                 603.12,
                 631.48,
-                664.4
+                669.21
             ]
         },
         {
             "ticker": "TSLA",
             "name": "Tesla",
-            "price": 409.78,
-            "change": 3.23,
-            "change_pct": 0.79,
-            "rsi": 52.5,
-            "sma50": 409.24,
-            "sma200": 418.15,
+            "price": 407.76,
+            "change": 1.21,
+            "change_pct": 0.3,
+            "rsi": 52.0,
+            "sma50": 409.2,
+            "sma200": 418.14,
             "signal": "VENDER",
             "date": "2026-07-10",
             "price_history": [
@@ -22834,7 +22850,7 @@
                 402.9,
                 394.06,
                 406.55,
-                409.78
+                407.76
             ]
         }
     ],
@@ -22843,9 +22859,9 @@
             "ticker": "^VIX",
             "name": "VIX (Índice del Miedo)",
             "category": "volatility",
-            "price": 15.25,
-            "change": -0.59,
-            "change_pct": -3.72,
+            "price": 15.03,
+            "change": -0.81,
+            "change_pct": -5.11,
             "date": "2026-07-10",
             "price_history": [
                 22.22,
@@ -22868,19 +22884,18 @@
                 16.13,
                 16.9,
                 15.84,
-                15.25
+                15.03
             ]
         },
         {
             "ticker": "^GSPC",
             "name": "S&P 500",
             "category": "index",
-            "price": 7577.68,
-            "change": 34.04,
-            "change_pct": 0.45,
+            "price": 7575.39,
+            "change": 31.75,
+            "change_pct": 0.42,
             "date": "2026-07-10",
             "price_history": [
-                7266.99,
                 7394.3,
                 7431.46,
                 7554.29,
@@ -22900,19 +22915,18 @@
                 7503.85,
                 7482.71,
                 7543.64,
-                7577.68
+                7575.39
             ]
         },
         {
             "ticker": "^IXIC",
             "name": "Nasdaq",
             "category": "index",
-            "price": 26291.37,
-            "change": 84.48,
-            "change_pct": 0.32,
+            "price": 26281.61,
+            "change": 74.72,
+            "change_pct": 0.29,
             "date": "2026-07-10",
             "price_history": [
-                25169.5,
                 25809.66,
                 25888.84,
                 26683.94,
@@ -22932,16 +22946,16 @@
                 25818.69,
                 25870.65,
                 26206.89,
-                26291.37
+                26281.61
             ]
         },
         {
             "ticker": "CL=F",
             "name": "Petróleo WTI",
             "category": "commodity",
-            "price": 71.64,
-            "change": -0.44,
-            "change_pct": -0.61,
+            "price": 71.51,
+            "change": -0.57,
+            "change_pct": -0.79,
             "date": "2026-07-10",
             "price_history": [
                 90.03,
@@ -22964,16 +22978,16 @@
                 70.44,
                 73.52,
                 72.08,
-                71.64
+                71.51
             ]
         },
         {
             "ticker": "GC=F",
             "name": "Oro",
             "category": "commodity",
-            "price": 4109.5,
-            "change": -21.1,
-            "change_pct": -0.51,
+            "price": 4128.9,
+            "change": -1.7,
+            "change_pct": -0.04,
             "date": "2026-07-10",
             "price_history": [
                 4108.2,
@@ -22996,7 +23010,7 @@
                 4145.3,
                 4070.9,
                 4130.6,
-                4109.5
+                4128.9
             ]
         }
     ]
