@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "generated_at": "2026-07-28 20:20:24",
-        "live_fx_rate": 17.44043
+        "generated_at": "2026-07-28 22:10:47",
+        "live_fx_rate": 17.42978
     },
     "system_status": {
         "status": "🔴 RIESGO ALTO",
@@ -22946,9 +22946,9 @@
             "ticker": "^VIX",
             "name": "VIX (Índice del Miedo)",
             "category": "volatility",
-            "price": 18.24,
-            "change": -0.43,
-            "change_pct": -2.3,
+            "price": 18.21,
+            "change": -0.46,
+            "change_pct": -2.46,
             "date": "2026-07-28",
             "price_history": [
                 17.65,
@@ -22971,7 +22971,7 @@
                 18.7,
                 18.58,
                 18.67,
-                18.24
+                18.21
             ]
         },
         {
@@ -23033,6 +23033,7 @@
                 25837.21,
                 25690.9,
                 25137.69,
+                24975.82,
                 24932.08,
                 24876.91
             ]
@@ -23041,9 +23042,9 @@
             "ticker": "CL=F",
             "name": "Petróleo WTI",
             "category": "commodity",
-            "price": 79.08,
-            "change": -3.53,
-            "change_pct": -4.27,
+            "price": 80.63,
+            "change": -1.98,
+            "change_pct": -2.4,
             "date": "2026-07-28",
             "price_history": [
                 70.75,
@@ -23066,16 +23067,16 @@
                 92.19,
                 89.31,
                 82.61,
-                79.08
+                80.63
             ]
         },
         {
             "ticker": "GC=F",
             "name": "Oro",
             "category": "commodity",
-            "price": 4022.9,
-            "change": -51.6,
-            "change_pct": -1.27,
+            "price": 4027.9,
+            "change": -46.6,
+            "change_pct": -1.14,
             "date": "2026-07-28",
             "price_history": [
                 4022.3,
@@ -23098,7 +23099,7 @@
                 4046.6,
                 4067.6,
                 4074.5,
-                4022.9
+                4027.9
             ]
         }
     ]
