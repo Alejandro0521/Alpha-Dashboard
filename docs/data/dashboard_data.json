@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "generated_at": "2026-08-05 20:35:39",
-        "live_fx_rate": 17.23812
+        "generated_at": "2026-08-05 22:15:53",
+        "live_fx_rate": 17.24217
     },
     "system_status": {
         "status": "🔴 RIESGO ALTO",
@@ -22860,9 +22860,9 @@
             "ticker": "CL=F",
             "name": "Petróleo WTI",
             "category": "commodity",
-            "price": 75.01,
-            "change": -0.76,
-            "change_pct": -1.0,
+            "price": 75.05,
+            "change": -0.72,
+            "change_pct": -0.95,
             "date": "2026-08-05",
             "price_history": [
                 68.55,
@@ -22887,16 +22887,16 @@
                 84.67,
                 80.34,
                 75.77,
-                75.01
+                75.05
             ]
         },
         {
             "ticker": "GC=F",
             "name": "Oro",
             "category": "commodity",
-            "price": 4307.6,
-            "change": 212.2,
-            "change_pct": 5.18,
+            "price": 4307.0,
+            "change": 211.6,
+            "change_pct": 5.17,
             "date": "2026-08-05",
             "price_history": [
                 4155.1,
@@ -22921,7 +22921,7 @@
                 4049.1,
                 4033.7,
                 4095.4,
-                4307.6
+                4307.0
             ]
         }
     ]
